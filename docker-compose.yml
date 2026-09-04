@@ -1,0 +1,64 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: active-chess-db
+    environment:
+      POSTGRES_USER: ${DB_USER:-chess_user}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-chess_password_dev}
+      POSTGRES_DB: ${DB_NAME:-active_chess}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-chess_user} -d ${DB_NAME:-active_chess}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - chess-network
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: active-chess-backend
+    environment:
+      DATABASE_URL: postgresql://${DB_USER:-chess_user}:${DB_PASSWORD:-chess_password_dev}@postgres:5432/${DB_NAME:-active_chess}
+      SECRET_KEY: ${SECRET_KEY:-your-secret-key-change-in-production}
+      ALGORITHM: ${ALGORITHM:-HS256}
+      ACCESS_TOKEN_EXPIRE_MINUTES: ${ACCESS_TOKEN_EXPIRE_MINUTES:-30}
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - chess-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: active-chess-frontend
+    environment:
+      REACT_APP_API_URL: ${REACT_APP_API_URL:-http://localhost:8000}
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - chess-network
+
+volumes:
+  postgres_data:
+
+networks:
+  chess-network:
+    driver: bridge
