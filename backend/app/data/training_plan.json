@@ -1,0 +1,1651 @@
+{
+  "threeYearPlan": {
+    "title": "3-Year Chess Mastery Plan",
+    "subtitle": "From complete beginner to strong club player (1800-2000 rating)",
+    "totalHours": 2190,
+    "year1": {
+      "title": "Year 1: Foundation Building",
+      "description": "Master the basics, tactical patterns, and fundamental endgames",
+      "months": [
+        {
+          "month": 1,
+          "title": "Rules, Board & Notation",
+          "focus": "Absolute basics — legal moves, notation, how each piece moves and captures",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Piece movement drills",
+              "details": "Practice how each piece moves and captures on an empty board, then with obstacles"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Algebraic notation",
+              "details": "Read and write algebraic notation; replay 5 short master games move-by-move"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Guided play",
+              "details": "Play 1-2 slow games (15+10 or longer) against a similarly-rated opponent, no time pressure"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Notation review",
+              "details": "Write your own game in notation and check it against an app's move list for errors"
+            }
+          },
+          "weeklyGoals": [
+            "Name every square on the board instantly (files a-h, ranks 1-8)",
+            "Move every piece correctly, including castling, en passant and promotion",
+            "Recognise check, checkmate and stalemate on sight",
+            "Record a full game in algebraic notation without help"
+          ],
+          "resources": [
+            "Bobby Fischer Teaches Chess",
+            "Chess.com Piece Movement Lessons",
+            "Learn Chess the Right Way Vol.1 (Susan Polgar)",
+            "Lichess Board Editor"
+          ]
+        },
+        {
+          "month": 2,
+          "title": "Basic Checkmates",
+          "focus": "Forcing checkmate with king+queen, king+rook, and two rooks vs lone king",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "K+Q vs K drill",
+              "details": "Practice mating with king and queen against a lone king from 10 random positions"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "K+R vs K drill",
+              "details": "Practice the 'lawnmower' technique with king and rook against a lone king"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Mixed mate puzzles",
+              "details": "Solve 15 mate-in-1 and mate-in-2 puzzles"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play games starting from a material-up position and convert to checkmate"
+            }
+          },
+          "weeklyGoals": [
+            "Deliver checkmate with K+Q vs K in under 10 moves, every time",
+            "Deliver checkmate with K+R vs K in under 16 moves without stalemating",
+            "Solve mate-in-1 puzzles with 95%+ accuracy",
+            "Understand why stalemate happens and how to avoid it"
+          ],
+          "resources": [
+            "Chessable: Checkmate Patterns for Beginners",
+            "Lichess Puzzle Trainer (mate-in-1 filter)",
+            "1001 Deadly Checkmates (John Nunn) — intro chapters"
+          ]
+        },
+        {
+          "month": 3,
+          "title": "Core Tactics I — Fork, Pin & Skewer",
+          "focus": "The three most common tactical weapons and how to spot them",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study one tactical motif in depth: definition, patterns, worked examples"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Themed puzzles",
+              "details": "Solve 15 puzzles filtered to that day's motif (fork, pin, or skewer)"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Find-the-tactic games",
+              "details": "Play 2 games looking for forks/pins/skewers before every move (Checks, Captures, Threats)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Puzzle review",
+              "details": "Re-solve missed puzzles and explain out loud why the tactic works"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly identify a fork, pin, and skewer from a diagram within 5 seconds",
+            "Solve 60+ themed puzzles this month at 80%+ accuracy",
+            "Successfully execute at least one fork or pin in a real game",
+            "Explain the difference between an absolute pin and a relative pin"
+          ],
+          "resources": [
+            "Chessable: Tactics Time!",
+            "Lichess Puzzle Themes (Fork/Pin/Skewer)",
+            "Woodpecker Method (starter set)"
+          ]
+        },
+        {
+          "month": 4,
+          "title": "Core Tactics II — Discovered & Double Attacks",
+          "focus": "Discovered attacks, discovered checks, and double attacks",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study discovered attacks/checks — how moving one piece unleashes another"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Themed puzzles",
+              "details": "Solve 15 puzzles on discovered attacks and double attacks"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Pattern games",
+              "details": "Play 2 games purposely setting up discovered attacks"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Blunder check drill",
+              "details": "Review 3 of your own recent games for missed discovered attacks against you"
+            }
+          },
+          "weeklyGoals": [
+            "Recognise a discovered attack setup 3 moves before it happens",
+            "Solve 60+ themed puzzles this month at 80%+ accuracy",
+            "Avoid walking into a discovered check in any practice game this month",
+            "Combine two tactical motifs (e.g., pin + fork) in at least one puzzle"
+          ],
+          "resources": [
+            "Lichess Puzzle Themes (Discovered Attack)",
+            "Chessable: Tactics Time! Vol.2",
+            "1001 Chess Exercises for Beginners (Franco Masetti)"
+          ]
+        },
+        {
+          "month": 5,
+          "title": "Opening Principles",
+          "focus": "Centre control, development, king safety, and the three golden rules",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Opening theory",
+              "details": "Study the 3 opening principles and the top 5 beginner opening mistakes"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 3 short classic games noting how they develop and castle quickly"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games with 1.e4 or 1.d4, castling by move 10 and developing before double pawn moves"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Self-review",
+              "details": "Annotate the first 10 moves of one game, marking any principle you broke"
+            }
+          },
+          "weeklyGoals": [
+            "Castle within the first 10 moves in every practice game",
+            "Avoid bringing the queen out before move 4 in every practice game",
+            "Name and explain all 3 opening principles from memory",
+            "Identify one opening mistake made by an opponent and punish it"
+          ],
+          "resources": [
+            "Chessable: Short & Sweet Openings",
+            "Logical Chess: Move by Move (Chernev) — first 5 games",
+            "In-app Opening Checklist reference"
+          ]
+        },
+        {
+          "month": 6,
+          "title": "Basic Pawn Endgames",
+          "focus": "King and pawn endgames — opposition, the square rule, key squares",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Theory: opposition",
+              "details": "Learn opposition and practice winning/drawing K+P vs K positions"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Theory: the square rule",
+              "details": "Learn the square rule for passed pawns and practice on the board"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Endgame puzzles",
+              "details": "Solve 15 king and pawn endgame puzzles/studies"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from a K+P vs K or K+2P vs K+P starting position"
+            }
+          },
+          "weeklyGoals": [
+            "Win every winning K+P vs K position using opposition",
+            "Correctly apply the square rule to judge if a pawn can be caught",
+            "Identify key squares for a given pawn and king position",
+            "Convert an extra pawn into a win in at least one practice game"
+          ],
+          "resources": [
+            "Silman's Complete Endgame Course — Part 1",
+            "100 Endgames You Must Know (Jesus de la Villa) — ch.1",
+            "Lichess Endgame Practice"
+          ]
+        },
+        {
+          "month": 7,
+          "title": "Checkmating Patterns",
+          "focus": "Back rank mate, smothered mate, ladder mate, and other recurring mating nets",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Pattern study",
+              "details": "Study one named checkmate pattern per day with 3 worked diagrams"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Themed puzzles",
+              "details": "Solve 15 puzzles on that day's mating pattern"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Attacking games",
+              "details": "Play 2 games trying to force checkmate rather than just winning material"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Puzzle rush",
+              "details": "Do a 3-minute Puzzle Rush / Storm session focused on mate patterns"
+            }
+          },
+          "weeklyGoals": [
+            "Recognise back rank mate threats and how to prevent them (luft)",
+            "Execute a smothered mate pattern at least once (puzzle or game)",
+            "Solve 60+ mate-pattern puzzles at 80%+ accuracy",
+            "Build a personal list of 5 favourite mating patterns with diagrams"
+          ],
+          "resources": [
+            "1001 Deadly Checkmates (John Nunn)",
+            "Chessable: Checkmate Patterns Manual",
+            "In-app tacticalPatternTable reference"
+          ]
+        },
+        {
+          "month": 8,
+          "title": "Basic Strategy — Pawn Structure & Weak Squares",
+          "focus": "Introduction to positional play: good vs bad pawns, weak squares, outposts",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study isolated, doubled, and backward pawns; what makes a square weak"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 annotated master games highlighting a weak-square or outpost strategy"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games consciously trying to plant a knight on an outpost or avoid weak pawns"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Position quiz",
+              "details": "Do 10 'assess the position' exercises on pawn structure"
+            }
+          },
+          "weeklyGoals": [
+            "Define isolated, doubled, and backward pawns with an example of each",
+            "Identify an outpost square in a given position",
+            "Avoid creating unnecessary pawn weaknesses in 2 consecutive practice games",
+            "Use the in-app imbalance checklist to assess one full game"
+          ],
+          "resources": [
+            "My System (Aron Nimzowitsch) — pawn chain chapters",
+            "Silman's How to Reassess Your Chess — intro imbalances",
+            "In-app Imbalance Checklist reference"
+          ]
+        },
+        {
+          "month": 9,
+          "title": "Rook Endgames I — Lucena & Philidor",
+          "focus": "The two most important rook endgame positions every player must know",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Lucena position",
+              "details": "Study the Lucena position and the 'building a bridge' technique"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Philidor position",
+              "details": "Study the Philidor position and third-rank defence"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Endgame puzzles",
+              "details": "Solve 15 rook endgame puzzles, focusing on Lucena/Philidor recognition"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from a rook + pawn vs rook starting position"
+            }
+          },
+          "weeklyGoals": [
+            "Win the Lucena position from any starting square in under 10 moves",
+            "Hold the Philidor position as the defender against a rook and pawn",
+            "Recognise when a rook endgame is a theoretical draw vs a win",
+            "Explain why an active rook matters more than an extra pawn in many rook endings"
+          ],
+          "resources": [
+            "100 Endgames You Must Know (Jesus de la Villa) — rook chapters",
+            "Silman's Complete Endgame Course — Part 2",
+            "In-app Endgame Quick Reference"
+          ]
+        },
+        {
+          "month": 10,
+          "title": "Building an Opening Repertoire",
+          "focus": "Choosing and learning 1-2 openings for White and Black to reach playable middlegames",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "White repertoire",
+              "details": "Learn the main line and typical plans of your chosen White opening (e.g., Italian Game or London System)"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Black vs 1.e4",
+              "details": "Learn a solid reply to 1.e4 (e.g., Caro-Kann or short French) to move 8-10"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Black vs 1.d4",
+              "details": "Learn a solid reply to 1.d4 (e.g., QGD or King's Indian) to move 8-10"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games using only your chosen repertoire, then check the moves against theory"
+            }
+          },
+          "weeklyGoals": [
+            "Play your White opening from memory to move 8 without hesitation",
+            "Play your Black defence vs 1.e4 from memory to move 8",
+            "Play your Black defence vs 1.d4 from memory to move 8",
+            "Identify the typical middlegame plan (pawn break or piece manoeuvre) for each opening"
+          ],
+          "resources": [
+            "Chessable: Short & Sweet Openings",
+            "In-app famousOpeningMoveOrders reference",
+            "Lichess Opening Explorer"
+          ]
+        },
+        {
+          "month": 11,
+          "title": "Calculation & the CCT Method",
+          "focus": "Combining tactics with structured calculation: Checks, Captures, Threats",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "CCT theory",
+              "details": "Study the Checks-Captures-Threats method for scanning any position before moving"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Calculation puzzles",
+              "details": "Solve 15 puzzles requiring 2-3 move calculation, writing down the line before moving"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Blindfold light drill",
+              "details": "Calculate a short 2-move combination in your head before touching the board, then verify"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games applying CCT scanning before every move, especially before opponent's reply"
+            }
+          },
+          "weeklyGoals": [
+            "Apply the CCT method automatically before every candidate move",
+            "Correctly calculate 2-3 move tactical sequences without moving pieces first",
+            "Reduce one-move blunders (hanging pieces) to near zero in practice games",
+            "Solve 60+ calculation puzzles this month at 75%+ accuracy"
+          ],
+          "resources": [
+            "In-app decisionLoop reference",
+            "Lichess Puzzle Trainer (mixed themes)",
+            "Calculation training articles on Chess.com"
+          ]
+        },
+        {
+          "month": 12,
+          "title": "Year 1 Review & First Tournament",
+          "focus": "Consolidate Year 1 material, assess rating progress, and play a first real tournament",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Full review",
+              "details": "Revisit weak spots from Months 1-11 using the glossary and reference sections"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Mixed puzzle set",
+              "details": "Solve 20 mixed puzzles covering all tactical motifs learned this year"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Tournament games",
+              "details": "Play 2-4 rated games (online or OTB) with a real clock and record every game"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Deep game analysis",
+              "details": "Analyse one tournament game in full: opening, key moment, and the decisive mistake"
+            }
+          },
+          "weeklyGoals": [
+            "Score at least 50% in a real tournament or rated game session",
+            "Correctly name every tactical pattern learned this year from a diagram",
+            "Complete a full self-analysis of a tournament game without engine help first",
+            "Set a concrete rating and study goal for Year 2"
+          ],
+          "resources": [
+            "Chess.com/Lichess rating history export",
+            "In-app glossary for concept review",
+            "A local or online beginner tournament"
+          ]
+        }
+      ]
+    },
+    "year2": {
+      "title": "Year 2: Skill Development",
+      "description": "Deepen tactical skills, expand opening knowledge, master positional play",
+      "months": [
+        {
+          "month": 13,
+          "title": "Intermediate Tactics — Combinations",
+          "focus": "Multi-move combinations that chain 2+ tactical motifs together",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study how combinations link forks, pins, and deflections into a forced sequence"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Combination puzzles",
+              "details": "Solve 15 puzzles rated 1200-1500 requiring 3+ move combinations"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Sacrifice study",
+              "details": "Study 2 classic sacrificial combinations (e.g., Greek Gift, exchange sacrifice) move by move"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games actively hunting for tactical opportunities rather than waiting for mistakes"
+            }
+          },
+          "weeklyGoals": [
+            "Solve 3-move combination puzzles at 70%+ accuracy",
+            "Correctly evaluate whether a sacrifice is sound before playing it",
+            "Successfully execute a multi-move combination in a real or training game",
+            "Explain the Greek Gift sacrifice conditions from memory"
+          ],
+          "resources": [
+            "Chessable: Winning Chess Combinations",
+            "Woodpecker Method (intermediate set)",
+            "In-app tacticalPatternTable"
+          ]
+        },
+        {
+          "month": 14,
+          "title": "Opening Repertoire Deepening",
+          "focus": "Extending your repertoire into main theoretical lines and typical plans",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Main line study",
+              "details": "Deepen your White opening to move 12-15, including one critical sideline"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Black repertoire vs 1.e4",
+              "details": "Extend your Black defence vs 1.e4 with typical middlegame plans"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Black repertoire vs 1.d4",
+              "details": "Extend your Black defence vs 1.d4, including move-order tricks"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play games and check post-game whether you followed prepared theory correctly"
+            }
+          },
+          "weeklyGoals": [
+            "Reach a known, comfortable middlegame in 80%+ of your games",
+            "Handle at least 2 common sidelines/deviations for each opening",
+            "Understand the typical pawn breaks and piece placement for your repertoire",
+            "Build a written repertoire document (moves + key ideas) for future review"
+          ],
+          "resources": [
+            "Chessable repertoire course matching your openings",
+            "Lichess Opening Explorer (master games filter)",
+            "ChessBase/lichess study for personal repertoire notes"
+          ]
+        },
+        {
+          "month": 15,
+          "title": "Positional Play — Piece Activity & Imbalances",
+          "focus": "Evaluating positions by piece activity, space, and structural imbalances",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study the imbalance checklist: material, pawn structure, piece activity, space, king safety"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 classic positional games (Karpov or Petrosian) with light annotation"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Position assessment drill",
+              "details": "Assess 10 middlegame diagrams using the imbalance checklist and pick a plan"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games where you write down your plan after move 10 and check if you followed it"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly assess a middlegame position across all 6 imbalance categories",
+            "Formulate a concrete multi-move plan in the middlegame, not just single moves",
+            "Identify piece activity differences and know how to improve your worst piece",
+            "Successfully execute a stated pre-move plan in at least one practice game"
+          ],
+          "resources": [
+            "Silman's How to Reassess Your Chess",
+            "My System (Nimzowitsch)",
+            "In-app imbalanceChecklist reference"
+          ]
+        },
+        {
+          "month": 16,
+          "title": "Middlegame Planning",
+          "focus": "Turning positional assessment into concrete plans: pawn breaks, piece regrouping, attacks",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study typical middlegame plans for your repertoire's pawn structures (IQP, hanging pawns, etc.)"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 games showing a textbook minority attack or kingside pawn storm"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Planning puzzles",
+              "details": "Solve 10 'find the plan' exercises (not tactics — strategic decision puzzles)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games consciously picking one long-term plan per game and sticking to it"
+            }
+          },
+          "weeklyGoals": [
+            "Identify at least 3 common middlegame pawn structures and their typical plans",
+            "Execute a minority attack or pawn storm plan in a training game",
+            "Distinguish between a position needing a tactical solution vs a strategic plan",
+            "Reduce 'planless' or drifting moves in your own games"
+          ],
+          "resources": [
+            "Pawn Structure Chess (Andrew Soltis)",
+            "Chessable: Strategic Middlegame courses",
+            "In-app curriculum strategy lessons"
+          ]
+        },
+        {
+          "month": 17,
+          "title": "Minor Piece Endgames",
+          "focus": "Bishop vs knight endgames, same-coloured and opposite-coloured bishop endings",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Bishop vs knight theory",
+              "details": "Study when bishops are better than knights and vice versa"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Opposite bishops",
+              "details": "Study opposite-coloured bishop endgame drawing tendencies and how to press for a win"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Endgame puzzles",
+              "details": "Solve 15 minor-piece endgame puzzles"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from bishop vs knight endgame starting positions"
+            }
+          },
+          "weeklyGoals": [
+            "Explain when a bishop is favoured over a knight in an endgame (open position, both wings)",
+            "Correctly judge whether an opposite-bishop endgame is drawn or winning",
+            "Convert a won bishop vs knight endgame in a training game",
+            "Recognise 'good bishop vs bad bishop' structures"
+          ],
+          "resources": [
+            "100 Endgames You Must Know — minor piece chapters",
+            "Silman's Complete Endgame Course — Part 3",
+            "Dvoretsky's Endgame Manual (selected chapters)"
+          ]
+        },
+        {
+          "month": 18,
+          "title": "Advanced Rook Endgames",
+          "focus": "Rook endgames beyond Lucena/Philidor: 4th-rank cutoffs, connected passed pawns, and rook activity",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Theory deepening",
+              "details": "Study rook + 2 pawns vs rook, and the importance of rook activity behind passed pawns"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Vancura defence",
+              "details": "Study the Vancura position for defending against a rook pawn"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Endgame puzzles",
+              "details": "Solve 15 advanced rook endgame puzzles"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from complex rook + pawns endgame positions"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly apply the Vancura defence in a rook pawn endgame",
+            "Prioritise rook activity over pawn-grabbing in practice games",
+            "Convert a rook + extra pawn endgame to a win at 70%+ success rate",
+            "Recognise when to trade into a won pawn endgame from a rook endgame"
+          ],
+          "resources": [
+            "Dvoretsky's Endgame Manual — rook endgame chapters",
+            "100 Endgames You Must Know",
+            "In-app endgameQuickReference"
+          ]
+        },
+        {
+          "month": 19,
+          "title": "Attacking the King",
+          "focus": "Building and executing attacks against a castled king, including sacrificial breakthroughs",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study classic attacking patterns: opening the h-file, Greek Gift, piece storms"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 famous attacking games (Kasparov, Tal) with annotation on key attacking decisions"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Attacking puzzles",
+              "details": "Solve 15 puzzles themed around king attacks and sacrifices"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games in sharp openings, prioritising attacking chances over material"
+            }
+          },
+          "weeklyGoals": [
+            "Recognise when a king-side attack is objectively justified vs unsound",
+            "Correctly calculate a forced sacrificial attack at least 4 moves deep",
+            "Execute a successful attacking plan (not just a random sacrifice) in a training game",
+            "Study and explain one Tal or Kasparov attacking masterpiece in full"
+          ],
+          "resources": [
+            "The Art of Attack in Chess (Vladimir Vukovic)",
+            "Chessable: Attacking Manual courses",
+            "My 60 Memorable Games (Bobby Fischer) — attacking games"
+          ]
+        },
+        {
+          "month": 20,
+          "title": "Defense Techniques",
+          "focus": "Defending difficult positions: prophylaxis, exchanging attackers, and finding only-moves",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study prophylactic thinking — 'what does my opponent want to do?' before every move"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 famous defensive games (Petrosian, Karpov) surviving an attack"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Defensive puzzles",
+              "details": "Solve 15 'find the only move' or 'save the position' defensive puzzles"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 training games from a worse/defensive position (set up by coach or engine) and try to hold"
+            }
+          },
+          "weeklyGoals": [
+            "Apply prophylactic thinking before at least one move per game",
+            "Correctly identify forced-only moves in defensive puzzle positions",
+            "Successfully defend and hold a worse position to a draw in a training game",
+            "Explain the difference between active and passive defence, with an example of each"
+          ],
+          "resources": [
+            "Petrosian's Legacy (Vigus/various)",
+            "Chessable: Defensive technique courses",
+            "In-app decisionLoop reference for blunder-checking"
+          ]
+        },
+        {
+          "month": 21,
+          "title": "Pawn Structures — IQP & Hanging Pawns",
+          "focus": "Deep dive into the isolated queen's pawn and hanging pawns structures",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "IQP theory",
+              "details": "Study the isolated queen's pawn: dynamic play for the side with it, blockade for the side against it"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Hanging pawns theory",
+              "details": "Study hanging pawns structures and their attacking/defending strategies"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 annotated games featuring IQP or hanging pawns middlegames"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games from your repertoire that typically lead to an IQP or hanging pawns structure"
+            }
+          },
+          "weeklyGoals": [
+            "Explain the trade-offs (dynamic activity vs long-term weakness) of the IQP",
+            "Correctly choose between attacking or blockading an IQP depending on which side you're on",
+            "Identify hanging pawns structures and their typical break (...c4 or ...d4)",
+            "Play one complete game demonstrating correct IQP strategy from either side"
+          ],
+          "resources": [
+            "Pawn Structure Chess (Andrew Soltis)",
+            "Chessable: IQP-focused strategy courses",
+            "My System (Nimzowitsch) — blockade chapter"
+          ]
+        },
+        {
+          "month": 22,
+          "title": "Calculation & Visualization Training",
+          "focus": "Deepening calculation depth and board visualization without moving pieces",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Visualization drills",
+              "details": "Solve 10 puzzles by calculating fully in your head before moving any piece"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Candidate moves method",
+              "details": "Practice selecting 2-4 candidate moves and calculating each to a concrete conclusion"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Calculation puzzles",
+              "details": "Solve 15 puzzles requiring 4+ move calculation"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 slower games (30+ min) forcing yourself to calculate before every non-trivial move"
+            }
+          },
+          "weeklyGoals": [
+            "Calculate 3-4 move forcing lines accurately without moving pieces",
+            "Use the candidate-moves method consistently instead of calculating one line at a time",
+            "Solve 60+ calculation-heavy puzzles this month at 70%+ accuracy",
+            "Reduce calculation errors (miscounting material, missing intermezzos) in practice games"
+          ],
+          "resources": [
+            "Calculate Like a Grandmaster resources (various authors)",
+            "Chessable: Calculation training courses",
+            "In-app decisionLoop reference"
+          ]
+        },
+        {
+          "month": 23,
+          "title": "Opening Repertoire vs Sidelines",
+          "focus": "Preparing for the tricky sidelines and gambits opponents use against your repertoire",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Sideline prep (White)",
+              "details": "Study the 2-3 most common sidelines opponents play against your White opening"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Sideline prep (Black vs 1.e4)",
+              "details": "Study anti-theory tries and gambits opponents use against your Black defence to 1.e4"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Sideline prep (Black vs 1.d4)",
+              "details": "Study sidelines and move-order tricks against your Black defence to 1.d4"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play games specifically inviting sidelines to test your preparation"
+            }
+          },
+          "weeklyGoals": [
+            "Have a prepared response to the 3 most common sidelines for each opening",
+            "Avoid being surprised by a common gambit or trap in your repertoire this month",
+            "Update your written repertoire notes with sideline responses",
+            "Win or hold at least 2 games where an opponent deviated from main theory"
+          ],
+          "resources": [
+            "Chessable repertoire courses (sideline chapters)",
+            "Lichess Opening Explorer (filter by rating band)",
+            "Personal repertoire notes (ChessBase/Lichess study)"
+          ]
+        },
+        {
+          "month": 24,
+          "title": "Year 2 Review & Tournament Cycle",
+          "focus": "Consolidate Year 2 material, analyse a full tournament, and set Year 3 goals",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Full review",
+              "details": "Revisit weak spots from Months 13-23 using glossary, curriculum and reference sections"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Mixed puzzle set",
+              "details": "Solve 20 mixed puzzles rated 1300-1600 covering tactics, endgames, and calculation"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Tournament games",
+              "details": "Play a multi-round rated tournament (4+ games) with full time control"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Deep game analysis",
+              "details": "Analyse two tournament games in full, including engine comparison after your own analysis"
+            }
+          },
+          "weeklyGoals": [
+            "Score at least 50% against opponents rated 1400-1600",
+            "Correctly self-diagnose the cause of any loss (opening, tactic, endgame, or time trouble)",
+            "Complete a written post-mortem for every tournament game",
+            "Set a concrete rating and specific weak-area goal for Year 3"
+          ],
+          "resources": [
+            "Tournament rating report (Chess.com/Lichess/FIDE)",
+            "In-app curriculum for weak-area review",
+            "A weekend swiss tournament or long online arena"
+          ]
+        }
+      ]
+    },
+    "year3": {
+      "title": "Year 3: Advanced Mastery",
+      "description": "Reach strong club player level with comprehensive chess understanding",
+      "months": [
+        {
+          "month": 25,
+          "title": "Advanced Tactics — Quiet Moves & Zwischenzug",
+          "focus": "Non-forcing tactical resources: quiet moves, in-between moves, and prophylactic tactics",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study 'quiet move' combinations and the zwischenzug (in-between move)"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Advanced puzzles",
+              "details": "Solve 15 puzzles rated 1600-1900 that require a non-capturing, non-checking key move"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 games featuring a decisive zwischenzug or quiet prophylactic move"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games consciously looking for quiet strengthening moves before forcing lines"
+            }
+          },
+          "weeklyGoals": [
+            "Solve 'quiet move' puzzles at 65%+ accuracy",
+            "Correctly identify a zwischenzug opportunity in a live game",
+            "Play at least one strong quiet/prophylactic move that a lower-rated player would miss",
+            "Explain why forcing moves aren't always the strongest move in a position"
+          ],
+          "resources": [
+            "Chessable: Advanced tactics courses (1800+)",
+            "Woodpecker Method (advanced set)",
+            "Combination Challenge / Tal-Shibut puzzle books"
+          ]
+        },
+        {
+          "month": 26,
+          "title": "Strategic Masterpieces",
+          "focus": "Deep study of classical strategic games to internalise long-term planning",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Model game deep dive",
+              "details": "Study one classical strategic game in full depth (Capablanca, Rubinstein, Karpov)"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Annotation practice",
+              "details": "Write your own annotations for a game before checking a master's annotations"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Thematic puzzles",
+              "details": "Solve 10 strategic decision puzzles (choosing the best plan, not the best tactic)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games trying to emulate the strategic theme studied that week"
+            }
+          },
+          "weeklyGoals": [
+            "Fully annotate one classic game with plans, not just move evaluations",
+            "Identify the strategic theme (e.g., minority attack, good knight vs bad bishop) in 5 different games",
+            "Apply a studied strategic theme successfully in a training game",
+            "Build a personal collection of 10 annotated model games by month's end"
+          ],
+          "resources": [
+            "My System (Nimzowitsch)",
+            "Zurich International Chess Tournament 1953 (Bronstein)",
+            "Chess Praxis / Capablanca's Best Games"
+          ]
+        },
+        {
+          "month": 27,
+          "title": "Complex Endgames — Queen & Opposite Bishops",
+          "focus": "Queen endgames, opposite-coloured bishops with other pieces, and complex technique",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Queen endgame theory",
+              "details": "Study queen vs queen endgames: perpetual check avoidance, king safety, technique"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Queen + pawn endgames",
+              "details": "Study queen vs pawn (especially rook-pawn/bishop-pawn) theoretical positions"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Endgame puzzles",
+              "details": "Solve 15 advanced queen and opposite-bishop endgame puzzles"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from complex queen endgame starting positions"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly convert a queen vs pawn endgame in the winning cases",
+            "Avoid perpetual check when ahead in a queen endgame at 80%+ success rate",
+            "Judge attacking chances vs drawing tendencies in opposite-bishop middlegames with rooks/queens",
+            "Solve 60+ advanced endgame puzzles this month at 65%+ accuracy"
+          ],
+          "resources": [
+            "Dvoretsky's Endgame Manual — queen endgame chapters",
+            "100 Endgames You Must Know — advanced chapters",
+            "Grandmaster Repertoire endgame volumes"
+          ]
+        },
+        {
+          "month": 28,
+          "title": "Opening Theory Deep Dive",
+          "focus": "Going deeper into critical, forcing lines of your main repertoire with engine-checked accuracy",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Critical line study",
+              "details": "Study the most theoretically critical, forcing line in your main White opening to move 18-20"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Black repertoire critical lines",
+              "details": "Study the most critical line in your main Black defence to move 15-18"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Novelty/idea hunting",
+              "details": "Review recent high-level games in your repertoire lines for new ideas or improvements"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play games specifically steering into your most-prepared critical lines"
+            }
+          },
+          "weeklyGoals": [
+            "Play your most critical repertoire line from memory to move 15+",
+            "Understand the resulting typical endgame or middlegame structure, not just the moves",
+            "Identify at least one recent grandmaster game relevant to your repertoire",
+            "Update repertoire notes with critical-line analysis and key evaluation"
+          ],
+          "resources": [
+            "Chessable repertoire courses (main-line chapters)",
+            "Recent grandmaster games database (Lichess/ChessBase)",
+            "Personal repertoire notes"
+          ]
+        },
+        {
+          "month": 29,
+          "title": "Dynamic vs Static Advantages",
+          "focus": "Understanding when to favour piece activity/initiative over long-term structural factors",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study the concept of compensation: sacrificing material/structure for activity or initiative"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2 games where a player sacrificed a pawn or exchange for lasting dynamic compensation"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Evaluation puzzles",
+              "details": "Solve 10 'is this compensation sufficient?' evaluation exercises"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games willing to accept a slightly worse structure for more active piece play"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly judge whether a pawn sacrifice gives sufficient compensation",
+            "Successfully play a position with lasting initiative despite a material deficit",
+            "Explain the difference between permanent (static) and temporary (dynamic) advantages",
+            "Identify 3 historical examples of a 'positional exchange sacrifice'"
+          ],
+          "resources": [
+            "Chess Strategy for Club Players (Herman Grooten)",
+            "Dynamic Chess Strategy (Mihai Suba)",
+            "In-app imbalanceChecklist reference"
+          ]
+        },
+        {
+          "month": 30,
+          "title": "Exchange & Positional Sacrifices",
+          "focus": "Recognising and executing the exchange sacrifice and other long-term positional sacrifices",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Concept lesson",
+              "details": "Study classic exchange sacrifices (rook for knight/bishop) for structure, colour complex, or initiative"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Model games",
+              "details": "Replay 2-3 famous exchange-sacrifice games (Petrosian is a model here)"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Evaluation puzzles",
+              "details": "Solve 10 puzzles/positions asking 'should Black/White sacrifice the exchange here?'"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 games looking specifically for a sound exchange sacrifice opportunity"
+            }
+          },
+          "weeklyGoals": [
+            "Correctly evaluate when an exchange sacrifice yields long-term compensation",
+            "Execute one sound exchange sacrifice in a training game",
+            "List the typical justifications for an exchange sacrifice (bad bishop, weak colour complex, strong knight)",
+            "Explain why Petrosian is considered a model for this technique"
+          ],
+          "resources": [
+            "Petrosian: Move by Move (Cyrus Lakdawala)",
+            "Chess Strategy for Club Players",
+            "Chessable: Positional sacrifice courses"
+          ]
+        },
+        {
+          "month": 31,
+          "title": "Advanced Calculation — Candidate Moves",
+          "focus": "Refining the candidate-moves method for complex, non-forcing middlegame positions",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Method refinement",
+              "details": "Practice generating 3-5 candidate moves in quiet (non-tactical) middlegame positions"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Deep calculation drills",
+              "details": "Calculate 5+ move lines fully in your head for 8 complex positions"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Advanced puzzles",
+              "details": "Solve 15 puzzles rated 1900+ combining calculation and evaluation"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play 2 slower games (45+ min) applying the full candidate-moves process each critical moment"
+            }
+          },
+          "weeklyGoals": [
+            "Consistently generate 3+ candidate moves before deciding, even in quiet positions",
+            "Calculate accurately to 5+ moves in complex positions without moving pieces",
+            "Solve 60+ advanced puzzles this month at 60%+ accuracy",
+            "Reduce time-trouble blunders by applying structured calculation earlier in the game"
+          ],
+          "resources": [
+            "Think Like a Grandmaster (Alexander Kotov)",
+            "Chessable: Advanced calculation courses",
+            "In-app decisionLoop reference"
+          ]
+        },
+        {
+          "month": 32,
+          "title": "Time Management & Tournament Psychology",
+          "focus": "Practical skills for clock management, focus, and emotional control in serious games",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Time management theory",
+              "details": "Study clock allocation strategies for different time controls and how to avoid time trouble"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Psychology reading",
+              "details": "Study tilt recovery, pre-game routines, and focus techniques used by strong players"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Simulated tournament games",
+              "details": "Play 2 full-length rated games under real tournament time control conditions"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Post-game reflection",
+              "details": "Journal about emotional state, time usage, and focus lapses after each game"
+            }
+          },
+          "weeklyGoals": [
+            "Finish games with at least 5 minutes on the clock in 80%+ of practice games",
+            "Identify personal tilt triggers and apply one recovery technique after a bad result",
+            "Maintain a consistent pre-game routine before every practice/tournament game",
+            "Keep a written log of time usage and psychological notes for at least 8 games"
+          ],
+          "resources": [
+            "The Chess Instructor's psychology resources",
+            "Chess for Zebras (Jonathan Rowson)",
+            "Personal time-usage journal"
+          ]
+        },
+        {
+          "month": 33,
+          "title": "Complete Repertoire Consolidation",
+          "focus": "Building a fully connected, tournament-ready opening repertoire for White and Black",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "White repertoire audit",
+              "details": "Review your entire White repertoire tree for gaps and update weak branches"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Black repertoire audit (vs 1.e4)",
+              "details": "Review and finalise your Black repertoire against 1.e4 including rare tries"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Black repertoire audit (vs 1.d4/flank)",
+              "details": "Review and finalise your Black repertoire against 1.d4 and flank openings (1.c4, 1.Nf3)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play a mix of games testing every branch of your repertoire against varied opponents"
+            }
+          },
+          "weeklyGoals": [
+            "Have a prepared, memorised response to every opening a typical opponent might play",
+            "Identify and close the 3 biggest remaining gaps in your repertoire",
+            "Produce a complete, organised repertoire document/study for future reference",
+            "Play 5+ consecutive games without being taken out of prepared theory"
+          ],
+          "resources": [
+            "Chessable repertoire suite (full course)",
+            "ChessBase/Lichess personal repertoire study",
+            "In-app famousOpeningMoveOrders reference"
+          ]
+        },
+        {
+          "month": 34,
+          "title": "Advanced Endgame Technique",
+          "focus": "Fortresses, zugzwang, and technical conversion of small advantages",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Fortress theory",
+              "details": "Study fortress positions where the defender holds despite material deficit"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Zugzwang theory",
+              "details": "Study zugzwang in king and pawn, and minor piece endgames"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Technical endgame puzzles",
+              "details": "Solve 15 puzzles on converting a small advantage (extra pawn, better minor piece)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Applied games",
+              "details": "Play training games from a small-but-real endgame advantage and practice converting it"
+            }
+          },
+          "weeklyGoals": [
+            "Recognise a fortress position and hold a draw as the defender",
+            "Correctly identify and exploit a zugzwang opportunity",
+            "Convert a small endgame advantage to a full point at 60%+ success rate in training games",
+            "Explain the difference between a 'technically winning' and 'practically difficult' endgame"
+          ],
+          "resources": [
+            "Dvoretsky's Endgame Manual — fortress and zugzwang chapters",
+            "100 Endgames You Must Know — advanced set",
+            "Grandmaster Repertoire / Endgame Strategy (Shereshevsky)"
+          ]
+        },
+        {
+          "month": 35,
+          "title": "Tournament Preparation & Opponent Prep",
+          "focus": "Practical preparation: researching opponents, adapting strategy, and simulating tournament conditions",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Opponent research",
+              "details": "Practice looking up a hypothetical opponent's games/repertoire and preparing a plan against it"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Targeted opening prep",
+              "details": "Prepare a specific line tailored to counter a known opponent tendency"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Simulated tournament round",
+              "details": "Play a full rated game simulating real tournament conditions (arrive early, full focus, no distractions)"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Round debrief",
+              "details": "Debrief the simulated round: opening choice, time usage, psychological state, and result"
+            }
+          },
+          "weeklyGoals": [
+            "Successfully prepare a targeted opening line against a specific opponent profile",
+            "Apply opponent research to gain a practical advantage in at least one simulated game",
+            "Maintain full tournament-standard focus and routine across a simulated round",
+            "Produce a complete pre-round preparation checklist for future tournaments"
+          ],
+          "resources": [
+            "Lichess/Chess.com opponent game search",
+            "Chessable: Practical tournament preparation courses",
+            "Personal pre-round checklist (build your own)"
+          ]
+        },
+        {
+          "month": 36,
+          "title": "Final Review, Mastery Assessment & Beyond",
+          "focus": "Consolidate all 3 years, assess readiness for 1800-2000 level play, and plan continued growth",
+          "dailyPlan": {
+            "session1": {
+              "duration": 30,
+              "activity": "Comprehensive review",
+              "details": "Revisit key concepts across all 3 years using curriculum, glossary, and reference sections"
+            },
+            "session2": {
+              "duration": 30,
+              "activity": "Mixed mastery puzzle set",
+              "details": "Solve 25 mixed puzzles spanning tactics, strategy, and endgames at your target rating"
+            },
+            "session3": {
+              "duration": 30,
+              "activity": "Capstone tournament",
+              "details": "Play a multi-round rated tournament as a capstone assessment of 3 years of study"
+            },
+            "session4": {
+              "duration": 30,
+              "activity": "Full game portfolio review",
+              "details": "Review your 10 best and 10 worst games from the past year to identify remaining weaknesses"
+            }
+          },
+          "weeklyGoals": [
+            "Achieve or approach the 1800-2000 rating target set at the start of the plan",
+            "Correctly self-diagnose remaining weak areas (e.g., specific endgame type, time trouble, opening gaps)",
+            "Produce a personal 'Year 4+' study plan targeting identified weaknesses",
+            "Complete a full annotated portfolio of 20 personal games with lessons learned"
+          ],
+          "resources": [
+            "In-app full curriculum and glossary for final review",
+            "A rated tournament (OTB or online) as capstone",
+            "Personal 'lessons learned' journal from the full 3-year plan"
+          ]
+        }
+      ]
+    }
+  },
+  "dailyPlans": {
+    "beginner": {
+      "title": "Beginner Daily Plan (Months 1-6)",
+      "description": "Foundation building for complete beginners",
+      "sessions": [
+        {
+          "time": "0:00-0:30",
+          "activity": "Learn new concept",
+          "details": "Study one chess concept from curriculum"
+        },
+        {
+          "time": "0:30-1:00",
+          "activity": "Tactical puzzles",
+          "details": "Solve 10-15 beginner puzzles"
+        },
+        {
+          "time": "1:00-1:30",
+          "activity": "Practice games",
+          "details": "Play 2-3 games focusing on learned concept"
+        },
+        {
+          "time": "1:30-2:00",
+          "activity": "Review and analysis",
+          "details": "Review games and identify mistakes"
+        }
+      ]
+    },
+    "intermediate": {
+      "title": "Intermediate Daily Plan (Months 7-18)",
+      "description": "Skill development for improving players",
+      "sessions": [
+        {
+          "time": "0:00-0:30",
+          "activity": "Opening study",
+          "details": "Learn or review opening repertoire"
+        },
+        {
+          "time": "0:30-1:00",
+          "activity": "Tactical training",
+          "details": "Solve 15-20 intermediate puzzles"
+        },
+        {
+          "time": "1:00-1:30",
+          "activity": "Endgame practice",
+          "details": "Study and practice endgame positions"
+        },
+        {
+          "time": "1:30-2:00",
+          "activity": "Game analysis",
+          "details": "Analyze one game in depth"
+        }
+      ]
+    },
+    "advanced": {
+      "title": "Advanced Daily Plan (Months 19-36)",
+      "description": "Mastery training for strong players",
+      "sessions": [
+        {
+          "time": "0:00-0:30",
+          "activity": "Opening preparation",
+          "details": "Deep dive into specific opening lines"
+        },
+        {
+          "time": "0:30-1:00",
+          "activity": "Complex tactics",
+          "details": "Solve 20 advanced tactical puzzles"
+        },
+        {
+          "time": "1:00-1:30",
+          "activity": "Positional study",
+          "details": "Study master games positionally"
+        },
+        {
+          "time": "1:30-2:00",
+          "activity": "Calculation training",
+          "details": "Practice calculation of complex positions"
+        }
+      ]
+    },
+    "tournament": {
+      "title": "Tournament Preparation Daily Plan",
+      "description": "Intensive preparation for competitive play",
+      "sessions": [
+        {
+          "time": "0:00-0:30",
+          "activity": "Opening warm-up",
+          "details": "Review critical opening lines"
+        },
+        {
+          "time": "0:30-1:00",
+          "activity": "Tactical sharpener",
+          "details": "Solve 20 tactical puzzles quickly"
+        },
+        {
+          "time": "1:00-1:30",
+          "activity": "Endgame review",
+          "details": "Review critical endgame positions"
+        },
+        {
+          "time": "1:30-2:00",
+          "activity": "Practice games",
+          "details": "Play practice games with time control"
+        }
+      ]
+    },
+    "rest": {
+      "title": "Light/Rest Day Plan",
+      "description": "Recovery day with lighter study",
+      "sessions": [
+        {
+          "time": "0:00-0:30",
+          "activity": "Casual puzzles",
+          "details": "Solve 10 fun puzzles"
+        },
+        {
+          "time": "0:30-1:00",
+          "activity": "Watch master games",
+          "details": "Enjoy and learn from master games"
+        },
+        {
+          "time": "1:00-1:30",
+          "activity": "Light review",
+          "details": "Quick review of key concepts"
+        },
+        {
+          "time": "1:30-2:00",
+          "activity": "Free play",
+          "details": "Play casual games or explore"
+        }
+      ]
+    }
+  },
+  "weeklySchedules": {
+    "balanced": {
+      "title": "Balanced Weekly Schedule",
+      "description": "Well-rounded approach covering all areas",
+      "days": [
+        {
+          "day": "Monday",
+          "focus": "Tactics",
+          "plan": "intermediate"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Openings",
+          "plan": "intermediate"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Endgames",
+          "plan": "intermediate"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Positional Play",
+          "plan": "intermediate"
+        },
+        {
+          "day": "Friday",
+          "focus": "Game Analysis",
+          "plan": "intermediate"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Practice Games",
+          "plan": "tournament"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest/Light Study",
+          "plan": "rest"
+        }
+      ]
+    },
+    "intensive": {
+      "title": "Intensive Weekly Schedule",
+      "description": "Focused training for rapid improvement",
+      "days": [
+        {
+          "day": "Monday",
+          "focus": "Tactics Deep Dive",
+          "plan": "advanced"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Opening Mastery",
+          "plan": "advanced"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Endgame Expertise",
+          "plan": "advanced"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Calculation Training",
+          "plan": "advanced"
+        },
+        {
+          "day": "Friday",
+          "focus": "Positional Mastery",
+          "plan": "advanced"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Tournament Practice",
+          "plan": "tournament"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Review and Planning",
+          "plan": "rest"
+        }
+      ]
+    },
+    "beginner": {
+      "title": "Beginner Weekly Schedule",
+      "description": "Gentle introduction to chess study",
+      "days": [
+        {
+          "day": "Monday",
+          "focus": "Basic Rules",
+          "plan": "beginner"
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Piece Movement",
+          "plan": "beginner"
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Basic Tactics",
+          "plan": "beginner"
+        },
+        {
+          "day": "Thursday",
+          "focus": "Checkmate Patterns",
+          "plan": "beginner"
+        },
+        {
+          "day": "Friday",
+          "focus": "Practice Games",
+          "plan": "beginner"
+        },
+        {
+          "day": "Saturday",
+          "focus": "Fun Puzzles",
+          "plan": "rest"
+        },
+        {
+          "day": "Sunday",
+          "focus": "Rest",
+          "plan": "rest"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2083 @@
+{
+  "curriculumData": {
+    "kids": {
+      "id": "kids",
+      "title": "🌟 Kids Chess Adventure",
+      "description": "Learn chess the fun way! Easy words, big pictures, and lots of gold stars.",
+      "icon": "⭐",
+      "level": "Ages 5–14",
+      "estimatedHours": 8,
+      "kidFriendly": true,
+      "lessons": [
+        {
+          "id": "k1",
+          "title": "🪖 Meet Your Chess Army!",
+          "content": "\n          <h3>Say Hello to Your Team!</h3>\n          <p>Chess is a fun game between two armies — one is White, one is Black. Each army has the SAME pieces. Let's meet them!</p>\n\n          <div class=\"tip-box\">\n            <strong>🎉 Fun Fact:</strong> You get 16 pieces total — 8 pawns and 8 \"big pieces\". That's a whole team of chess friends!\n          </div>\n\n          <h4>Your Chess Friends</h4>\n          <table class=\"piece-table\">\n            <tr><th>Who?</th><th>Looks Like</th><th>How It Moves</th></tr>\n            <tr><td>👑 King</td><td>♔ ♚</td><td>One tiny step, any direction. He's precious — protect him!</td></tr>\n            <tr><td>👸 Queen</td><td>♕ ♛</td><td>Super speedy! Any direction, as far as she likes.</td></tr>\n            <tr><td>🏰 Rook</td><td>♖ ♜</td><td>Straight lines only — up, down, left, right.</td></tr>\n            <tr><td>⛪ Bishop</td><td>♗ ♝</td><td>Diagonal lines only — like sliding on a slanted line.</td></tr>\n            <tr><td>🐴 Knight</td><td>♘ ♞</td><td>Jumps in an \"L\" shape — 2 steps then 1 turn. It can jump OVER pieces!</td></tr>\n            <tr><td>🧍 Pawn</td><td>♙ ♟</td><td>One step forward (2 steps on its very first move). It captures diagonally!</td></tr>\n          </table>\n\n          <h4>Setting Up the Board</h4>\n          <ul>\n            <li>Put a light-colored square at your bottom-right corner. Remember: <strong>\"light is right!\"</strong></li>\n            <li>Pawns line up on the row right in front of you — 8 little soldiers.</li>\n            <li>Rooks go in the corners, then Knights, then Bishops.</li>\n            <li>The Queen always stands on her own color (white Queen on a white square).</li>\n            <li>The King takes the last square.</li>\n          </ul>\n\n          <div class=\"tip-box\">\n            <strong>💡 Grown-Up Tip:</strong> Practice setting up the board 3 times in a row without help. Once you can do it fast, you're a real chess player!\n          </div>\n        "
+        },
+        {
+          "id": "k2",
+          "title": "🗺️ Squares Have Names!",
+          "content": "\n          <h3>The Board Is Like a Treasure Map</h3>\n          <p>Every square on the chessboard has its very own name, just like every house has an address! This helps us talk about chess moves.</p>\n\n          <h4>Easy as A-B-C, 1-2-3</h4>\n          <ul>\n            <li>Going sideways (left to right), the columns are named <strong>a, b, c, d, e, f, g, h</strong> — just like the alphabet!</li>\n            <li>Going up (bottom to top), the rows are numbered <strong>1, 2, 3, 4, 5, 6, 7, 8</strong>.</li>\n            <li>Every square gets a letter AND a number, like <strong>e4</strong> or <strong>a1</strong>. That's its name!</li>\n          </ul>\n\n          <div class=\"tip-box\">\n            <strong>🎮 Try This Game:</strong> Point to a square and say its name out loud. Then close your eyes and try to picture where \"d4\" is. That's the treasure spot right in the middle!\n          </div>\n\n          <h4>Why Do We Need Names?</h4>\n          <p>Chess players write down their moves using these names, like a secret code! If someone says \"move your Knight to f3\", now you know exactly where to go.</p>\n\n          <h4>The Middle Squares Are Super Important</h4>\n          <p>The four squares in the very center — <strong>d4, e4, d5, e5</strong> — are like the castle in the middle of a kingdom. Whoever controls the middle usually has more power!</p>\n        "
+        },
+        {
+          "id": "k3",
+          "title": "✨ Magic Chess Moves!",
+          "content": "\n          <h3>Three Super Special Moves</h3>\n          <p>Chess has three \"magic moves\" that look tricky but are actually easy once you know the secret!</p>\n\n          <h4>🏰 Castling — Keep Your King Safe!</h4>\n          <p>Castling is a move where your King and Rook team up! The King hops two squares toward the Rook, and the Rook jumps to the other side of the King. It's like your King running into a safe little fort.</p>\n          <div class=\"tip-box\"><strong>Remember:</strong> You can only castle if neither piece has moved yet, and nothing is in the way!</div>\n\n          <h4>👻 En Passant — The Ghost Capture!</h4>\n          <p>Sometimes a pawn tries to sneak past your pawn by jumping two squares at once. You get one special chance to capture it anyway — like catching a ghost before it disappears! But you must do it right away, on your very next move, or the chance vanishes.</p>\n\n          <h4>👑 Promotion — Pawn Power-Up!</h4>\n          <p>If your little pawn makes it all the way across the board to the last row, something amazing happens: it turns into ANY piece you want (except a King)! Most players choose a Queen because she's the strongest.</p>\n          <div class=\"tip-box\"><strong>🎉 It's like a video game power-up!</strong> Your smallest piece becomes your strongest piece.</div>\n\n          <h4>Two More Rules to Know</h4>\n          <ul>\n            <li><strong>Checkmate</strong> = the King is trapped and can't escape. Game over, you win!</li>\n            <li><strong>Stalemate</strong> = the King isn't in danger, but has no safe moves at all. This is a tie — be careful not to do this by accident when you're winning!</li>\n          </ul>\n        "
+        },
+        {
+          "id": "k4",
+          "title": "🥷 Sneaky Attacks: Forks & Pins!",
+          "content": "\n          <h3>Chess Superpowers!</h3>\n          <p>Great chess players know some sneaky tricks to win pieces. Here are the two easiest superpowers to learn first!</p>\n\n          <h4>🍴 The Fork Monster</h4>\n          <p>A Fork is when ONE of your pieces attacks TWO enemy pieces at the same time! Your opponent can only save one — you get the other one for free!</p>\n          <div class=\"tip-box\"><strong>🐴 Knights are Fork champions!</strong> Their weird L-shaped jump makes them great at forking two pieces at once.</div>\n\n          <h4>📌 The Unbreakable Pin</h4>\n          <p>A Pin happens when a piece can't move — because if it did, a more important piece behind it (like the King) would be in danger! It's \"pinned\" in place, like a butterfly on a board (but don't worry, it's safe, just stuck).</p>\n\n          <h4>⚔️ The Laser Skewer</h4>\n          <p>A Skewer is like a backwards Pin! You attack an important piece first, and when it moves out of the way, you capture the piece hiding behind it. Zap!</p>\n\n          <div class=\"tip-box\">\n            <strong>🕹️ Practice Time:</strong> Before every move, ask yourself: \"Can I Fork two pieces? Is anything Pinned? Can I Skewer something?\" Superheroes always check for their powers!\n          </div>\n        "
+        },
+        {
+          "id": "k5",
+          "title": "🔍 Checkmate Detective!",
+          "content": "\n          <h3>How to Win the Game!</h3>\n          <p>The goal of chess is <strong>checkmate</strong> — trapping the enemy King so it can never escape. Let's learn the two easiest ways to do it!</p>\n\n          <h4>👑 + 👸 King and Queen Checkmate</h4>\n          <ul>\n            <li>Use your Queen to \"build a wall\" that the enemy King can't cross.</li>\n            <li>Slowly push the enemy King toward the edge of the board — Kings hate corners!</li>\n            <li>Bring your own King closer to help trap the enemy King.</li>\n            <li>Deliver checkmate when the King has nowhere left to run.</li>\n          </ul>\n\n          <h4>👑 + 🏰 King and Rook Checkmate</h4>\n          <p>This one is like a fun dance! Your Rook cuts off a whole row or column, and your King slowly walks over to help push the enemy King to the edge. Then your Rook delivers the final checkmate.</p>\n\n          <div class=\"tip-box\">\n            <strong>⚠️ Detective Warning:</strong> Be super careful not to accidentally trap the enemy King with NO checks and NO safe moves — that's a stalemate, and it's a boring tie instead of a win!\n          </div>\n\n          <h4>Checkmate Checklist</h4>\n          <ul>\n            <li>Is the enemy King in check (under attack)?</li>\n            <li>Can the King move to any safe square? If no...</li>\n            <li>Can the King's friends block the attack or capture the attacker? If no...</li>\n            <li>🎉 That's CHECKMATE! You win!</li>\n          </ul>\n        "
+        },
+        {
+          "id": "k6",
+          "title": "🏆 Be a Chess Champion!",
+          "content": "\n          <h3>Champions Aren't Just Good at Chess — They're Good Sports!</h3>\n          <p>Being a great chess player isn't only about winning. It's about being kind, patient, and never giving up!</p>\n\n          <h4>⏰ Meeting the Chess Clock</h4>\n          <p>In real tournaments, each player gets their own clock. Press it after your move so your friend's timer starts. Don't worry — your coach will help the first few times!</p>\n\n          <h4>✋ Touch-Move Manners</h4>\n          <p>In official games, if you touch a piece on purpose, you have to move it. That's why champions always THINK first, then touch a piece!</p>\n\n          <h4>📝 Writing Down Your Moves</h4>\n          <p>Just like a detective writes clues in a notebook, chess players write down every move using square names (like \"Nf3\" for \"Knight to f3\"). It helps you replay the game later and learn from it!</p>\n\n          <h4>🤝 Win or Lose, Shake Hands and Smile</h4>\n          <ul>\n            <li>Say \"good game\" and shake hands, every single time.</li>\n            <li>If you lose, that's OK! Even world champions lose sometimes.</li>\n            <li>Ask yourself: \"What's ONE thing I learned from this game?\"</li>\n            <li>Celebrate trying your best — that's what makes a true champion.</li>\n          </ul>\n\n          <div class=\"tip-box\">\n            <strong>🌟 You Did It!</strong> Finishing this adventure means you already know more chess than most grown-ups! Time to play your first real game and have fun.\n          </div>\n        "
+        }
+      ]
+    },
+    "basics": {
+      "id": "basics",
+      "title": "Chess Fundamentals",
+      "description": "Master the essential foundations of chess",
+      "icon": "♟",
+      "level": "Beginner",
+      "estimatedHours": 10,
+      "lessons": [
+        {
+          "id": "b1",
+          "title": "The Chess Board & Notation",
+          "content": "\n          <h3>Understanding the Board</h3>\n          <p>The chessboard consists of 64 squares arranged in an 8×8 grid. Each square has a unique identifier using algebraic notation.</p>\n          \n          <h4>Files and Ranks</h4>\n          <ul>\n            <li><strong>Files (columns):</strong> Lettered a-h from left to right</li>\n            <li><strong>Ranks (rows):</strong> Numbered 1-8 from bottom to top</li>\n            <li><strong>Example:</strong> e4 is the square on file e, rank 4</li>\n          </ul>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Setup Trick:</strong> Always place the board with a light square on your bottom-right corner. Remember: \"White on right, queen on her own colour.\"\n          </div>\n          \n          <h4>Piece Movement Summary</h4>\n          <table class=\"piece-table\">\n            <tr><th>Piece</th><th>Symbol</th><th>Value</th><th>Movement</th></tr>\n            <tr><td>King</td><td>♔ ♚</td><td>∞</td><td>1 square any direction</td></tr>\n            <tr><td>Queen</td><td>♕ ♛</td><td>9</td><td>Any distance, any direction</td></tr>\n            <tr><td>Rook</td><td>♖ ♜</td><td>5</td><td>Horizontal/vertical only</td></tr>\n            <tr><td>Bishop</td><td>♗ ♝</td><td>3</td><td>Diagonal only</td></tr>\n            <tr><td>Knight</td><td>♘ ♞</td><td>3</td><td>L-shape (2+1 squares)</td></tr>\n            <tr><td>Pawn</td><td>♙ ♟</td><td>1</td><td>Forward 1 (or 2 on first move)</td></tr>\n          </table>\n        ",
+          "puzzles": [
+            "p1",
+            "p2",
+            "p3"
+          ],
+          "games": [
+            "g1"
+          ]
+        },
+        {
+          "id": "b2",
+          "title": "Special Rules & Castling",
+          "content": "\n          <h3>Special Chess Rules</h3>\n          \n          <h4>🏰 Castling</h4>\n          <p>Castling is a special move involving the king and a rook:</p>\n          <ul>\n            <li><strong>Kingside (O-O):</strong> King moves to g1, rook to f1</li>\n            <li><strong>Queenside (O-O-O):</strong> King moves to c1, rook to d1</li>\n          </ul>\n          <p><strong>Conditions:</strong> Neither piece has moved, no pieces between them, king not in check, doesn't pass through check.</p>\n          \n          <h4>👻 En Passant</h4>\n          <p>When an enemy pawn advances 2 squares and lands beside your pawn on the 5th rank, you may capture it as if it moved only one square. This right expires after one move!</p>\n          \n          <h4>👑 Pawn Promotion</h4>\n          <p>When a pawn reaches the opponent's back rank, it must promote. Almost always to a Queen, but sometimes to a Knight (for check) or Rook (to avoid stalemate).</p>\n          \n          <h4>🤝 Drawing Rules</h4>\n          <ul>\n            <li><strong>Stalemate:</strong> Not in check but no legal moves = draw</li>\n            <li><strong>Threefold Repetition:</strong> Same position occurs 3 times</li>\n            <li><strong>50-Move Rule:</strong> 50 moves without pawn move or capture</li>\n            <li><strong>Insufficient Material:</strong> Neither side can force mate</li>\n          </ul>\n        ",
+          "puzzles": [
+            "p4",
+            "p5"
+          ],
+          "games": [
+            "g2"
+          ]
+        },
+        {
+          "id": "b3",
+          "title": "The Three Opening Principles",
+          "content": "\n          <h3>Golden Rules for the Opening</h3>\n          \n          <div class=\"principle-card\">\n            <h4>1. Control the Centre</h4>\n            <p>Fight for the central squares e4, d4, e5 and d5 with pawns and pieces; do not treat one pawn setup as mandatory. A centre piece controls up to 8 squares; an edge piece controls only 2-3.</p>\n            <div class=\"example\">Best first moves: 1.e4 or 1.d4 for White</div>\n          </div>\n          \n          <div class=\"principle-card\">\n            <h4>2. Develop Your Pieces</h4>\n            <p>A useful beginner heuristic is to develop efficiently and avoid repeated moves without a concrete reason. Usually develop knights and bishops early.</p>\n            <div class=\"example\">Goal: Nf3, Nc3, Bc4, castle by move 8-10</div>\n          </div>\n          \n          <div class=\"principle-card\">\n            <h4>3. Ensure King Safety</h4>\n            <p>Castle early to protect your king and connect your rooks. A king in the centre becomes a target.</p>\n            <div class=\"example\">Aim to castle early when it is safe and useful; move 10 is a guideline, not a rule.</div>\n          </div>\n          \n          <div class=\"warning-box\">\n            <strong>❌ Top 5 Beginner Mistakes:</strong>\n            <ol>\n              <li>Bringing queen out too early</li>\n              <li>Moving same piece twice in opening</li>\n              <li>Grabbing pawns instead of developing</li>\n              <li>Not castling</li>\n              <li>Not checking opponent's threats</li>\n            </ol>\n          </div>\n        ",
+          "puzzles": [
+            "p6",
+            "p7",
+            "p8"
+          ],
+          "games": [
+            "g3"
+          ]
+        }
+      ]
+    },
+    "tactics": {
+      "id": "tactics",
+      "title": "Tactical Mastery",
+      "description": "Learn to spot winning combinations",
+      "icon": "⚔",
+      "level": "Beginner-Intermediate",
+      "estimatedHours": 25,
+      "lessons": [
+        {
+          "id": "t1",
+          "title": "Basic Tactical Patterns",
+          "content": "\n          <h3>Essential Tactical Motifs</h3>\n          \n          <h4>🔱 Fork</h4>\n          <p>A single piece attacks two or more enemy pieces simultaneously. Knights are famous for forks.</p>\n          <div class=\"example\">White Knight on e5 attacks Black King on g8 and Queen on c7</div>\n          \n          <h4>📌 Pin</h4>\n          <p>A piece cannot move because it would expose a more valuable piece behind it to attack.</p>\n          <div class=\"example\">White Bishop on g5 pins Black Knight on f6 to the Queen on d8</div>\n          \n          <h4>🔄 Skewer</h4>\n          <p>Similar to a pin, but the more valuable piece is in front. When it moves, the less valuable piece behind is captured.</p>\n          \n          <h4>💥 Discovered Attack</h4>\n          <p>Moving one piece reveals an attack from another piece behind it. Can be devastating!</p>\n          \n          <h4>⚡ Double Attack</h4>\n          <p>One piece creates two threats simultaneously. The opponent can only defend one.</p>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Tactical Thinking:</strong> Always look for CHECKS, CAPTURES, and THREATS (CCT) before playing quiet moves.\n          </div>\n        ",
+          "puzzles": [
+            "p10",
+            "p11",
+            "p12",
+            "p13",
+            "p14"
+          ],
+          "games": [
+            "g4",
+            "g5"
+          ]
+        },
+        {
+          "id": "t2",
+          "title": "Advanced Combinations",
+          "content": "\n          <h3>Complex Tactical Patterns</h3>\n          \n          <h4>🎯 Sacrifice Combinations</h4>\n          <p>Sometimes giving up material leads to a forced win. Common sacrifices:</p>\n          <ul>\n            <li><strong>Greek Gift:</strong> Bishop sacrifice on h7/h2</li>\n            <li><strong>Smothered Mate:</strong> Queen sacrifice to deliver mate with knight</li>\n            <li><strong>Double Bishop Sacrifice:</strong> Bxh7+ and Bxg7+</li>\n          </ul>\n          \n          <h4>🔗 Clearance Sacrifice</h4>\n          <p>Sacrifice a piece to clear a square, diagonal, or file for a more powerful piece.</p>\n          \n          <h4>🎪 Interference</h4>\n          <p>Place a piece between two enemy pieces to disrupt their coordination.</p>\n          \n          <h4>🧩 Overloading</h4>\n          <p>Force a piece to defend too many targets, then exploit the undefended one.</p>\n          \n          <h4>⚔️ Zwischenzug</h4>\n          <p>\"In-between move\" - play an unexpected move before taking a captured piece.</p>\n        ",
+          "puzzles": [
+            "p15",
+            "p16",
+            "p17",
+            "p18",
+            "p19"
+          ],
+          "games": [
+            "g6",
+            "g7"
+          ]
+        },
+        {
+          "id": "t3",
+          "title": "Checkmate Patterns",
+          "content": "\n          <h3>Essential Checkmate Patterns</h3>\n          \n          <h4>🏰 Back Rank Mate</h4>\n          <p>When the king is trapped on the back rank by its own pawns. Very common!</p>\n          \n          <h4>👑 Scholar's Mate</h4>\n          <p>1.e4 e5 2.Bc4 Nc6 3.Qh5 Nf6?? 4.Qxf7# - Learn this to avoid falling for it!</p>\n          \n          <h4>🎯 Smothered Mate</h4>\n          <p>King is checkmated by a knight with no escape squares, surrounded by its own pieces.</p>\n          \n          <h4>🌊 Anastasia's Mate</h4>\n          <p>Knight and rook coordinate to deliver mate on the edge of the board.</p>\n          \n          <h4>⭐ Arabian Mate</h4>\n          <p>Rook and knight deliver mate in the corner. Classic pattern!</p>\n          \n          <h4>🎪 Hook Mate</h4>\n          <p>Rook, knight, and pawn work together to trap the king in a hook shape.</p>\n        ",
+          "puzzles": [
+            "p20",
+            "p21",
+            "p22",
+            "p23",
+            "p24"
+          ],
+          "games": [
+            "g8",
+            "g9"
+          ]
+        }
+      ]
+    },
+    "strategy": {
+      "id": "strategy",
+      "title": "Positional Strategy",
+      "description": "Master long-term planning and piece coordination",
+      "icon": "🧠",
+      "level": "Intermediate-Advanced",
+      "estimatedHours": 30,
+      "lessons": [
+        {
+          "id": "s1",
+          "title": "Pawn Structure Fundamentals",
+          "content": "\n          <h3>Understanding Pawn Structures</h3>\n          \n          <h4>🏗️ Good vs Bad Pawn Structures</h4>\n          <ul>\n            <li><strong>Connected Pawns:</strong> Pawns on adjacent files supporting each other</li>\n            <li><strong>Passed Pawn:</strong> No enemy pawns can stop it from promoting</li>\n            <li><strong>Isolated Pawn:</strong> No friendly pawns on adjacent files (weakness)</li>\n            <li><strong>Doubled Pawns:</strong> Two pawns on same file (usually weak)</li>\n            <li><strong>Backward Pawn:</strong> Cannot be protected by other pawns</li>\n          </ul>\n          \n          <h4>🎯 Pawn Breaks</h4>\n          <p>Identify the pawn moves that will open lines for your pieces:</p>\n          <ul>\n            <li><strong>Central Break:</strong> d4-d5 or e4-e5 to open the centre</li>\n            <li><strong>Wing Break:</strong> f4-f5 or b4-b5 to create attacks</li>\n          </ul>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Key Principle:</strong> \"Pawn structure determines the character of the position.\" - Aaron Nimzowitsch\n          </div>\n        ",
+          "puzzles": [
+            "p25",
+            "p26"
+          ],
+          "games": [
+            "g10",
+            "g11"
+          ]
+        },
+        {
+          "id": "s2",
+          "title": "Piece Activity & Coordination",
+          "content": "\n          <h3>Maximizing Piece Power</h3>\n          \n          <h4>🎯 Improve Your Worst Piece</h4>\n          <p>Always ask: \"Which piece is doing the least?\" and improve it first.</p>\n          \n          <h4>🔗 Piece Coordination</h4>\n          <ul>\n            <li><strong>Bishop Pair:</strong> Two bishops are very powerful in open positions</li>\n            <li><strong>Rook on 7th Rank:</strong> Dominates and often wins pawns</li>\n            <li><strong>Knight Outpost:</strong> A knight on a protected square cannot be attacked by enemy pawns</li>\n          </ul>\n          \n          <h4>🎪 Good vs Bad Bishops</h4>\n          <p><strong>Good Bishop:</strong> Pawns are on opposite colour squares</p>\n          <p><strong>Bad Bishop:</strong> Pawns are on same colour squares (blocked)</p>\n          \n          <h4>🌟 Open Files & Diagonals</h4>\n          <p>Place rooks on open files, bishops on open diagonals. Control key squares!</p>\n        ",
+          "puzzles": [
+            "p27",
+            "p28"
+          ],
+          "games": [
+            "g12",
+            "g13"
+          ]
+        },
+        {
+          "id": "s3",
+          "title": "Prophylaxis & Prevention",
+          "content": "\n          <h3>Thinking Ahead & Preventing Opponent Plans</h3>\n          \n          <h4>🛡️ Prophylactic Thinking</h4>\n          <p>Ask: \"What does my opponent want to do?\" and prevent it!</p>\n          \n          <h4>🎯 Identifying Weaknesses</h4>\n          <ul>\n            <li>Weak pawns (isolated, backward, doubled)</li>\n            <li>Weak squares (cannot be protected by pawns)</li>\n            <li>Exposed king</li>\n            <li>Uncoordinated pieces</li>\n          </ul>\n          \n          <h4>🔧 Fixing Weaknesses</h4>\n          <ul>\n            <li>Trade pieces when you have structural weaknesses</li>\n            <li>Attack opponent's weaknesses to create counterplay</li>\n            <li>Improve piece placement before launching attacks</li>\n          </ul>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Strategic Rule:</strong> When you have a structural advantage, trade pieces. When you have a positional disadvantage, keep pieces on the board for tactical chances.\n          </div>\n        ",
+          "puzzles": [
+            "p29",
+            "p30"
+          ],
+          "games": [
+            "g14",
+            "g15"
+          ]
+        }
+      ]
+    },
+    "endgames": {
+      "id": "endgames",
+      "title": "Endgame Essentials",
+      "description": "Master the final phase of the game",
+      "icon": "🏁",
+      "level": "Intermediate-Advanced",
+      "estimatedHours": 20,
+      "lessons": [
+        {
+          "id": "e1",
+          "title": "Basic Checkmates",
+          "content": "\n          <h3>Fundamental Checkmate Patterns</h3>\n          \n          <h4>👑 King + Queen vs King</h4>\n          <p>Use the queen to cut off the king, then bring your king to help deliver mate. Force the king to the edge.</p>\n          \n          <h4>🏰 King + Rook vs King</h4>\n          <p>Use the rook to cut off the king on a rank/file, then use your king to push the enemy king to the edge.</p>\n          \n          <h4>♟ King + 2 Bishops vs King</h4>\n          <p>Force the king to the corner using the bishops, then deliver mate. Requires coordination!</p>\n          \n          <h4>🐴 King + Bishop + Knight vs King</h4>\n          <p>The most difficult basic checkmate. Force king to corner of your bishop's colour, then use knight to deliver mate.</p>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Endgame Rule:</strong> Activate your king! In the endgame, the king becomes a powerful fighting piece.\n          </div>\n        ",
+          "puzzles": [
+            "p31",
+            "p32",
+            "p33"
+          ],
+          "games": [
+            "g16"
+          ]
+        },
+        {
+          "id": "e2",
+          "title": "Pawn Endgames",
+          "content": "\n          <h3>King & Pawn Endgames</h3>\n          \n          <h4>📏 The Square Rule</h4>\n          <p>To determine if a pawn can queen without support: draw a square from the pawn to the promotion rank. If the enemy king can enter the square, it can catch the pawn.</p>\n          \n          <h4>⚔️ Opposition</h4>\n          <p>When kings face each other with one square between them, the side to move loses the opposition. Use this to outmaneuver the opponent!</p>\n          \n          <h4>🎯 Key Squares</h4>\n          <p>Each pawn has key squares. If your king reaches a key square, the pawn will promote.</p>\n          \n          <h4>🌊 Passed Pawns</h4>\n          <ul>\n            <li><strong>Outside Passed Pawn:</strong> A passed pawn far from other pawns - very valuable</li>\n            <li><strong>Protected Passed Pawn:</strong> Supported by another pawn - extremely strong</li>\n            <li><strong>Connected Passed Pawns:</strong> Two or more passed pawns together - often decisive</li>\n          </ul>\n        ",
+          "puzzles": [
+            "p34",
+            "p35",
+            "p36"
+          ],
+          "games": [
+            "g17",
+            "g18"
+          ]
+        },
+        {
+          "id": "e3",
+          "title": "Rook Endgames",
+          "content": "\n          <h3>Essential Rook Endgame Knowledge</h3>\n          \n          <h4>🏆 Lucena Position</h4>\n          <p>A winning position where the stronger side promotes a pawn. Key technique: \"building a bridge\" with the rook.</p>\n          \n          <h4>🛡️ Philidor Position</h4>\n          <p>A drawing position where the weaker side holds the draw by keeping the rook on the 6th rank.</p>\n          \n          <h4>🎯 Rook Activity</h4>\n          <p><strong>\"Rooks belong behind passed pawns\"</strong> - whether your own or the opponent's!</p>\n          \n          <h4>📊 Rook + Pawn vs Rook</h4>\n          <ul>\n            <li>Rook pawns (a/h files) are hardest to promote</li>\n            <li>Central pawns (e/d files) are easiest to promote</li>\n            <li>Active rook can often save drawable positions</li>\n          </ul>\n          \n          <div class=\"tip-box\">\n            <strong>💡 Rook Endgame Rule:</strong> \"All rook endgames are drawn\" - but only if you know the drawing techniques!\n          </div>\n        ",
+          "puzzles": [
+            "p37",
+            "p38",
+            "p39"
+          ],
+          "games": [
+            "g19",
+            "g20"
+          ]
+        }
+      ]
+    },
+    "calculation": {
+      "id": "calculation",
+      "title": "Calculation & Visualization",
+      "description": "Build disciplined thinking: forcing moves, candidate moves, visualization and blunder prevention",
+      "icon": "🎯",
+      "level": "All Levels",
+      "estimatedHours": 18,
+      "lessons": [
+        {
+          "id": "c1",
+          "title": "CCT Routine",
+          "content": "<h3>Checks → Captures → Threats</h3><p>Before a quiet move, scan forcing moves. Then ask what the opponent changed and what they can capture after your move.</p>",
+          "puzzles": [
+            "p15",
+            "p20",
+            "y4",
+            "y7"
+          ]
+        },
+        {
+          "id": "c2",
+          "title": "Candidate Moves",
+          "content": "<h3>Do not calculate everything</h3><p>Choose 2–4 serious candidates. Calculate the opponent's strongest reply first, compare final positions, then perform a final blunder check.</p>",
+          "puzzles": [
+            "y1",
+            "y2",
+            "y3",
+            "y15"
+          ]
+        },
+        {
+          "id": "c3",
+          "title": "Visualization",
+          "content": "<h3>Calculate without moving pieces</h3><ul><li>Name the destination square.</li><li>Visualise the board after your move.</li><li>Visualise the opponent's best reply.</li><li>Explain the final position aloud.</li></ul>",
+          "puzzles": [
+            "x9",
+            "x10",
+            "x11"
+          ]
+        }
+      ]
+    },
+    "competition": {
+      "id": "competition",
+      "title": "Tournament & Practical Chess",
+      "description": "Turn study into reliable over-the-board performance",
+      "icon": "🏆",
+      "level": "All Levels",
+      "estimatedHours": 12,
+      "lessons": [
+        {
+          "id": "t1",
+          "title": "Tournament Routine",
+          "content": "<h3>Before, during and after the game</h3><p>Arrive calm, use the same opening and thinking routine, spend time at critical moments, and record the game accurately.</p>",
+          "puzzles": [
+            "x15",
+            "x17",
+            "y5"
+          ]
+        },
+        {
+          "id": "t2",
+          "title": "Self-Analysis",
+          "content": "<h3>Your own thinking first, engine third</h3><ol><li>Replay the game without an engine.</li><li>Mark the critical moment.</li><li>Calculate alternatives.</li><li>Use a coach or engine to verify.</li><li>Write one reusable lesson.</li></ol>",
+          "games": [
+            "gx1",
+            "gx6"
+          ]
+        },
+        {
+          "id": "t3",
+          "title": "Winning & Defending",
+          "content": "<h3>Practical technique</h3><p>When ahead, reduce unnecessary risk and convert the advantage. When worse, search for active defence, counterplay, perpetual checks or drawing resources.</p>",
+          "puzzles": [
+            "p38",
+            "p39",
+            "x2",
+            "x6"
+          ]
+        }
+      ]
+    }
+  },
+  "puzzles": {
+    "p1": {
+      "id": "p1",
+      "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+      "title": "Find the best move for Black",
+      "difficulty": "Beginner",
+      "theme": "Opening Principles",
+      "solution": "e5",
+      "explanation": "Playing 1...e5 controls the centre and opens lines for the bishop and queen. This follows the opening principle of controlling the centre.",
+      "verified": true
+    },
+    "p2": {
+      "id": "p2",
+      "fen": "6k1/5ppp/8/8/8/2B5/5PPP/4R1K1 w - - 0 1",
+      "title": "Back-rank mate with bishop cover",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "Re8 delivers checkmate along the back rank; the bishop on c3 covers key squares.",
+      "verified": true
+    },
+    "p3": {
+      "id": "p3",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5",
+      "title": "White to play - complete development",
+      "difficulty": "Beginner",
+      "theme": "Development",
+      "solution": "O-O",
+      "explanation": "Castling completes development, brings the king to safety, and connects the rooks. A must-know move!",
+      "verified": true
+    },
+    "p4": {
+      "id": "p4",
+      "fen": "k7/8/8/3pP3/8/8/8/7K w - d6 0 1",
+      "title": "En passant",
+      "difficulty": "Beginner",
+      "theme": "En Passant",
+      "solution": "exd6",
+      "explanation": "The black pawn has just advanced two squares from d7 to d5. White can capture it en passant on d6 immediately.",
+      "verified": true
+    },
+    "p5": {
+      "id": "p5",
+      "fen": "k7/6P1/8/8/8/8/8/7K w - - 0 1",
+      "title": "Promotion",
+      "difficulty": "Beginner",
+      "theme": "Pawn Promotion",
+      "solution": "g8=Q+",
+      "explanation": "The pawn reaches the last rank and promotes. Queen promotion gives check in this position.",
+      "verified": true
+    },
+    "p6": {
+      "id": "p6",
+      "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+      "title": "Black to play - central reply to 1.d4",
+      "difficulty": "Beginner",
+      "theme": "Centre Control",
+      "solution": "d5",
+      "explanation": "1...d5 stakes immediate claim in the centre against 1.d4, preventing White from playing e4 easily.",
+      "verified": true
+    },
+    "p7": {
+      "id": "p7",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+      "title": "White to play - develop knight",
+      "difficulty": "Beginner",
+      "theme": "Development",
+      "solution": "Nc3",
+      "explanation": "3.Nc3 develops the knight to its natural square, controls the centre, and prepares for castling.",
+      "verified": true
+    },
+    "p8": {
+      "id": "p8",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5",
+      "title": "Black to play - castle",
+      "difficulty": "Beginner",
+      "theme": "King Safety",
+      "solution": "O-O",
+      "explanation": "5...O-O brings the king to safety and connects the rooks. Essential for king safety!",
+      "verified": true
+    },
+    "p9": {
+      "id": "p9",
+      "fen": "r1bqk2r/pppp1ppp/2n5/2b1p3/2B1n3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
+      "title": "White to play - capture loose piece",
+      "difficulty": "Beginner",
+      "theme": "Tactics",
+      "solution": "dxe4",
+      "explanation": "dxe4 captures the unprotected black knight on e4, winning material and strengthening the centre.",
+      "verified": true
+    },
+    "p10": {
+      "id": "p10",
+      "fen": "r3k2r/ppp2ppp/8/3N4/8/8/PPP2PPP/R3K2R w KQkq - 0 1",
+      "title": "Knight fork — king and rook",
+      "difficulty": "Beginner",
+      "theme": "Fork",
+      "solution": "Nc7+",
+      "explanation": "Nc7+ forks the king on e8 and the rook on a8, winning a full rook on the next move.",
+      "verified": true
+    },
+    "p11": {
+      "id": "p11",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5",
+      "title": "White to play - pin",
+      "difficulty": "Beginner",
+      "theme": "Pin",
+      "solution": "Bg5",
+      "explanation": "Bg5 pins the knight on f6 to the queen on d8. The knight cannot move without losing the queen.",
+      "verified": true
+    },
+    "p12": {
+      "id": "p12",
+      "fen": "7k/8/5K2/8/8/8/4R3/8 w - - 0 1",
+      "title": "Rook & king back rank mate",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Re8#",
+      "explanation": "Re8 delivers checkmate because the white king on f6 prevents the black king from stepping to g7.",
+      "verified": true
+    },
+    "p13": {
+      "id": "p13",
+      "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+      "title": "White to play - prepare central break",
+      "difficulty": "Intermediate",
+      "theme": "Opening Strategy",
+      "solution": "c3",
+      "explanation": "c3 prepares the powerful d4 pawn break to challenge Black in the centre.",
+      "verified": true
+    },
+    "p14": {
+      "id": "p14",
+      "fen": "rnbqk2r/ppp2ppp/3p1n2/8/2BPPb2/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6",
+      "title": "White to play - double attack",
+      "difficulty": "Intermediate",
+      "theme": "Double Attack",
+      "solution": "Ng5",
+      "explanation": "Ng5 attacks both the f7 pawn and the bishop on g4. Black cannot defend both.",
+      "verified": true
+    },
+    "p15": {
+      "id": "p15",
+      "fen": "r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQ - 0 7",
+      "title": "White to play - strike at f7",
+      "difficulty": "Advanced",
+      "theme": "Attack",
+      "solution": "Bxf7+",
+      "explanation": "Bxf7+ sacrifices the bishop to expose Black's king and shatter king safety.",
+      "verified": true
+    },
+    "p16": {
+      "id": "p16",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+      "title": "White to play - Fried Liver setup",
+      "difficulty": "Advanced",
+      "theme": "Attack",
+      "solution": "Ng5",
+      "explanation": "Ng5 creates dual threats against the vulnerable f7 square.",
+      "verified": true
+    },
+    "p17": {
+      "id": "p17",
+      "fen": "r3k3/8/8/3N4/8/8/8/5K2 w - - 0 1",
+      "title": "Knight fork — winning the rook",
+      "difficulty": "Intermediate",
+      "theme": "Fork",
+      "solution": "Nc7+",
+      "explanation": "Nc7+ forks the king on e8 and the corner rook on a8, winning decisive material.",
+      "verified": true
+    },
+    "p18": {
+      "id": "p18",
+      "fen": "r1bq1rk1/pppp1ppp/2n2n2/4p3/2B1P1N1/2N2Q2/PPP2PPP/R1B1K2R b KQ - 0 7",
+      "title": "Black to play - exploit overloaded queen",
+      "difficulty": "Advanced",
+      "theme": "Overloading",
+      "solution": "Nxe4",
+      "explanation": "The white queen is overloaded defending multiple points. Exploiting this wins material.",
+      "verified": true
+    },
+    "p19": {
+      "id": "p19",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+      "title": "White to play - central pawn break",
+      "difficulty": "Advanced",
+      "theme": "Pawn Break",
+      "solution": "d4",
+      "explanation": "Playing d4 immediately strikes at Black's central pawn on e5.",
+      "verified": true
+    },
+    "p20": {
+      "id": "p20",
+      "fen": "6k1/5ppp/8/8/8/8/5PPP/4R1K1 w - - 0 1",
+      "title": "White to play - back rank mate",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "Re8# delivers checkmate on the back rank. The king is trapped by its own pawns.",
+      "verified": true
+    },
+    "p21": {
+      "id": "p21",
+      "fen": "7k/4Q3/6K1/8/8/8/8/8 w - - 0 1",
+      "title": "Queen & king mate in one",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Qg7#",
+      "explanation": "Qg7# delivers checkmate supported by the king on g6. The cornered king has no legal moves.",
+      "verified": true
+    },
+    "p22": {
+      "id": "p22",
+      "fen": "7k/5Npp/8/8/8/8/8/4R1K1 w - - 0 1",
+      "title": "Back rank mate with knight escort",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "The rook mates along the back rank while the knight controls escape squares.",
+      "verified": true
+    },
+    "p23": {
+      "id": "p23",
+      "fen": "7k/R7/8/8/8/8/8/1R4K1 w - - 0 1",
+      "title": "Two rooks lawnmower checkmate",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Rb8#",
+      "explanation": "Rb8# completes the lawnmower ladder mate, cutting off the final rank from the king.",
+      "verified": true
+    },
+    "p24": {
+      "id": "p24",
+      "fen": "7k/5ppp/5N2/8/8/8/8/4R1K1 w - - 0 1",
+      "title": "Rook mate with knight clamp",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "The rook delivers a back-rank mate; the knight covers key escape squares.",
+      "verified": true
+    },
+    "p25": {
+      "id": "p25",
+      "fen": "r1bqkbnr/pp1ppppp/2p5/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3",
+      "title": "White to play - exploit isolated pawn",
+      "difficulty": "Intermediate",
+      "theme": "Pawn Structure",
+      "solution": "c4",
+      "explanation": "c4 puts pressure on the centre and fixes the pawn structure.",
+      "verified": true
+    },
+    "p26": {
+      "id": "p26",
+      "fen": "4k3/8/8/8/3P4/4K3/8/8 w - - 0 1",
+      "title": "Centralise the king to support passed pawn",
+      "difficulty": "Beginner",
+      "theme": "King Activity",
+      "solution": "Kd3",
+      "explanation": "Bring the king toward the centre and ahead of the pawn to establish key squares.",
+      "verified": true
+    },
+    "p27": {
+      "id": "p27",
+      "fen": "6k1/R7/5K2/8/8/8/8/8 w - - 0 1",
+      "title": "Rook on 7th rank to checkmate",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Ra8#",
+      "explanation": "Ra8# delivers checkmate on the rim with king support on f6.",
+      "verified": true
+    },
+    "p28": {
+      "id": "p28",
+      "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5",
+      "title": "White to play - solid development",
+      "difficulty": "Intermediate",
+      "theme": "Development",
+      "solution": "d3",
+      "explanation": "d3 solidifies the central e4 pawn and frees the c1 bishop.",
+      "verified": true
+    },
+    "p29": {
+      "id": "p29",
+      "fen": "r1bqkbnr/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4",
+      "title": "White to play - prophylactic move",
+      "difficulty": "Advanced",
+      "theme": "Prophylaxis",
+      "solution": "h3",
+      "explanation": "h3 prevents ...Bg4 and creates a luft (escape square) for the king.",
+      "verified": true
+    },
+    "p30": {
+      "id": "p30",
+      "fen": "r1bq1rk1/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQ - 0 5",
+      "title": "White to play - flank clamp",
+      "difficulty": "Advanced",
+      "theme": "Prophylaxis",
+      "solution": "a4",
+      "explanation": "a4 prevents Black's queenside expansion with ...b5.",
+      "verified": true
+    },
+    "p31": {
+      "id": "p31",
+      "fen": "k7/1R6/1K6/8/8/8/8/8 w - - 0 1",
+      "title": "Rook edge checkmate",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Ra7#",
+      "explanation": "Ra7# delivers checkmate against the cornered king with king support on b6.",
+      "verified": true
+    },
+    "p32": {
+      "id": "p32",
+      "fen": "7k/5R2/6K1/8/8/8/8/8 w - - 0 1",
+      "title": "Rook mate in one",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Rf8#",
+      "explanation": "The rook on f8 checks the king on h8; the king cannot escape because the white king controls g7.",
+      "verified": true
+    },
+    "p33": {
+      "id": "p33",
+      "fen": "7k/7r/8/8/8/8/2B5/6K1 w - - 0 1",
+      "title": "Win the rook",
+      "difficulty": "Beginner",
+      "theme": "Bishop Tactics",
+      "solution": "Bxh7",
+      "explanation": "The bishop captures the exposed rook on h7. Always scan diagonals for loose pieces.",
+      "verified": true
+    },
+    "p34": {
+      "id": "p34",
+      "fen": "8/8/8/8/7P/6K1/8/k7 w - - 0 1",
+      "title": "White to play - square rule sprint",
+      "difficulty": "Beginner",
+      "theme": "Square Rule",
+      "solution": "h5",
+      "explanation": "The pawn can queen because the black king cannot enter the square (h5-h8-d5-d8).",
+      "verified": true
+    },
+    "p35": {
+      "id": "p35",
+      "fen": "8/8/8/3k4/3P4/4K3/8/8 w - - 0 1",
+      "title": "King opposition in endgame",
+      "difficulty": "Beginner",
+      "theme": "Opposition",
+      "solution": "Kd3",
+      "explanation": "Kd3 takes the direct opposition against the black king, controlling the path for the d-pawn.",
+      "verified": true
+    },
+    "p36": {
+      "id": "p36",
+      "fen": "8/8/8/8/8/5P2/5K2/6k1 w - - 0 1",
+      "title": "King and pawn support",
+      "difficulty": "Beginner",
+      "theme": "King and Pawn",
+      "solution": "Kg3",
+      "explanation": "Keep the king close to the pawn and improve its support.",
+      "verified": true
+    },
+    "p37": {
+      "id": "p37",
+      "fen": "7K/8/8/8/8/8/3r4/R3k3 w - - 0 1",
+      "title": "Lucena practice",
+      "difficulty": "Advanced",
+      "theme": "Lucena Position",
+      "solution": "Ra8",
+      "explanation": "Start the Lucena technique by placing the rook on the eighth rank.",
+      "verified": true
+    },
+    "p38": {
+      "id": "p38",
+      "fen": "4k3/4r3/8/8/8/8/2R5/6K1 w - - 0 1",
+      "title": "Rook check on back rank",
+      "difficulty": "Intermediate",
+      "theme": "Rook Endgame",
+      "solution": "Rc8+",
+      "explanation": "Keep the rook active and check from the back rank.",
+      "verified": true
+    },
+    "p39": {
+      "id": "p39",
+      "fen": "4k3/8/3r4/8/8/3R4/8/6K1 w - - 0 1",
+      "title": "Trade into winning King & Pawn ending",
+      "difficulty": "Intermediate",
+      "theme": "Simplification",
+      "solution": "Rxd6",
+      "explanation": "Rxd6 captures the black rook, simplifying into an easily won endgame.",
+      "verified": true
+    },
+    "x1": {
+      "id": "x1",
+      "fen": "r1bqkb1r/pppp1ppp/2n5/4p3/2B1n3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 1",
+      "title": "Scholar's mate pattern attack",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Qxf7#",
+      "explanation": "Qxf7# delivers checkmate because the queen on f7 is defended by the bishop on c4 and the black king has no legal squares.",
+      "verified": true
+    },
+    "x2": {
+      "id": "x2",
+      "fen": "3k4/R7/3K4/8/8/8/8/8 w - - 0 1",
+      "title": "Rook & king edge checkmate",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Ra8#",
+      "explanation": "Ra8# delivers checkmate along the 8th rank. The white king on d6 blocks the black king from stepping to d7, e7, or c7.",
+      "verified": true
+    },
+    "x3": {
+      "id": "x3",
+      "fen": "6k1/5ppp/8/8/8/8/8/4R1K1 w - - 0 1",
+      "title": "Back-rank mate",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "The rook reaches e8 and mates because the king is boxed in by its own pawns.",
+      "verified": true
+    },
+    "x4": {
+      "id": "x4",
+      "fen": "6k1/5ppp/6N1/8/8/8/8/4R1K1 w - - 0 1",
+      "title": "Rook and knight coordination",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Re8#",
+      "explanation": "The rook gives the final back-rank check while the knight helps control escape squares.",
+      "verified": true
+    },
+    "x5": {
+      "id": "x5",
+      "fen": "6k1/5ppp/8/8/8/2N5/8/4R1K1 w - - 0 1",
+      "title": "Knight centralisation",
+      "difficulty": "Beginner",
+      "theme": "Piece Activity",
+      "solution": "Ne4",
+      "explanation": "Centralise the knight and practise looking for future fork squares rather than moving automatically.",
+      "verified": true
+    },
+    "x6": {
+      "id": "x6",
+      "fen": "7k/8/3R4/8/8/5K2/8/8 w - - 0 1",
+      "title": "Rook cut-off in endgame",
+      "difficulty": "Beginner",
+      "theme": "Rook Endgame",
+      "solution": "Rd7",
+      "explanation": "Rd7 cuts the black king off along the 7th rank, trapping it on the edge of the board.",
+      "verified": true
+    },
+    "x7": {
+      "id": "x7",
+      "fen": "6k1/5ppp/8/8/8/8/4R1K1/8 w - - 0 1",
+      "title": "Back-rank mate with rook",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Re8#",
+      "explanation": "The rook mates along the back rank because the king is boxed in by its own pawns.",
+      "verified": true
+    },
+    "x8": {
+      "id": "x8",
+      "fen": "6k1/5ppp/8/8/8/8/4Q1K1/8 w - - 0 1",
+      "title": "Queen back-rank checkmate",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Qe8#",
+      "explanation": "Qe8# delivers checkmate along the back rank with the queen.",
+      "verified": true
+    },
+    "x9": {
+      "id": "x9",
+      "fen": "8/8/8/8/8/2K5/4P3/2k5 w - - 0 1",
+      "title": "Find the winning king move",
+      "difficulty": "Intermediate",
+      "theme": "Opposition",
+      "solution": "Kc4",
+      "explanation": "King placement decides pawn endings. Take the opposition before pushing the pawn.",
+      "verified": true
+    },
+    "x10": {
+      "id": "x10",
+      "fen": "8/8/8/8/8/4K3/4P3/7k w - - 0 1",
+      "title": "Push with king support",
+      "difficulty": "Beginner",
+      "theme": "King and Pawn",
+      "solution": "Kf3",
+      "explanation": "Bring the king toward the pawn before rushing the pawn forward.",
+      "verified": true
+    },
+    "x11": {
+      "id": "x11",
+      "fen": "8/8/8/8/8/4K3/4P3/2k5 w - - 0 1",
+      "title": "King in front of pawn",
+      "difficulty": "Beginner",
+      "theme": "Key Squares",
+      "solution": "Kf3",
+      "explanation": "Centralise the king so it can support the pawn and control promotion squares.",
+      "verified": true
+    },
+    "x12": {
+      "id": "x12",
+      "fen": "8/8/8/8/4k3/4P3/4K3/8 w - - 0 1",
+      "title": "King opposition defense & breakthrough",
+      "difficulty": "Beginner",
+      "theme": "Opposition",
+      "solution": "Kd2",
+      "explanation": "Maintain control over the key squares in this king and pawn endgame.",
+      "verified": true
+    },
+    "x13": {
+      "id": "x13",
+      "fen": "6k1/8/8/8/8/8/5P2/6K1 w - - 0 1",
+      "title": "Passed pawn support",
+      "difficulty": "Beginner",
+      "theme": "Passed Pawn",
+      "solution": "Kf1",
+      "explanation": "King activity is often more important than an automatic pawn push.",
+      "verified": true
+    },
+    "x14": {
+      "id": "x14",
+      "fen": "8/8/8/8/8/5K2/4P3/k7 w - - 0 1",
+      "title": "Opposition before promotion",
+      "difficulty": "Intermediate",
+      "theme": "Opposition",
+      "solution": "Kg2",
+      "explanation": "Use king positioning and opposition rather than pushing the pawn blindly.",
+      "verified": true
+    },
+    "x15": {
+      "id": "x15",
+      "fen": "7k/8/8/8/8/8/4R3/4K3 w - - 0 1",
+      "title": "Rook check from behind",
+      "difficulty": "Beginner",
+      "theme": "Rook Activity",
+      "solution": "Re8+",
+      "explanation": "An active rook can check from behind while the king approaches.",
+      "verified": true
+    },
+    "x16": {
+      "id": "x16",
+      "fen": "4k3/8/4K3/4P3/8/8/8/8 w - - 0 1",
+      "title": "Direct opposition in King & Pawn ending",
+      "difficulty": "Beginner",
+      "theme": "Key Squares",
+      "solution": "Kd6",
+      "explanation": "Kd6 takes key square control and outflanks Black's king, guaranteeing pawn promotion.",
+      "verified": true
+    },
+    "x17": {
+      "id": "x17",
+      "fen": "6k1/5ppp/8/8/8/8/4R3/5K2 w - - 0 1",
+      "title": "Back-rank rook check",
+      "difficulty": "Beginner",
+      "theme": "Rook Technique",
+      "solution": "Re8#",
+      "explanation": "The rook reaches the back rank and mates the boxed king.",
+      "verified": true
+    },
+    "x18": {
+      "id": "x18",
+      "fen": "k7/8/1K6/8/8/8/5Q2/8 w - - 0 1",
+      "title": "Do not stalemate — queen mate in one",
+      "difficulty": "Beginner",
+      "theme": "Stalemate Awareness",
+      "solution": "Qf8#",
+      "explanation": "Qf8# delivers checkmate without allowing stalemate.",
+      "verified": true
+    },
+    "x19": {
+      "id": "x19",
+      "fen": "6k1/8/8/8/8/Q7/8/7K w - - 0 1",
+      "title": "Queen check",
+      "difficulty": "Beginner",
+      "theme": "Queen Check",
+      "solution": "Qf8+",
+      "explanation": "A long-range queen check demonstrates how diagonals can create forcing moves.",
+      "verified": true
+    },
+    "x20": {
+      "id": "x20",
+      "fen": "R5k1/8/8/8/8/8/8/7K w - - 0 1",
+      "title": "Rook activity",
+      "difficulty": "Beginner",
+      "theme": "Rook Activity",
+      "solution": "Rf8+",
+      "explanation": "An active rook check can restrict the enemy king; always examine the king’s replies.",
+      "verified": true
+    },
+    "x21": {
+      "id": "x21",
+      "fen": "4k2r/8/8/8/8/2B5/8/4K3 w - - 0 1",
+      "title": "Bishop skewer on king and rook",
+      "difficulty": "Beginner",
+      "theme": "Skewer",
+      "solution": "Bxh8",
+      "explanation": "The bishop captures the undefended rook on h8, winning decisive material.",
+      "verified": true
+    },
+    "x22": {
+      "id": "x22",
+      "fen": "4k3/8/4p3/3N4/8/8/8/4K3 w - - 0 1",
+      "title": "Knight fork on pawn & king square",
+      "difficulty": "Beginner",
+      "theme": "Knight Tactics",
+      "solution": "Nf4",
+      "explanation": "Nf4 increases knight activity, hitting the weak e6 pawn.",
+      "verified": true
+    },
+    "x23": {
+      "id": "x23",
+      "fen": "4k3/8/8/8/8/3Q4/8/4K3 w - - 0 1",
+      "title": "Queen check",
+      "difficulty": "Beginner",
+      "theme": "Forcing Moves",
+      "solution": "Qd7+",
+      "explanation": "Combine checking ability with restriction, while counting the opponent’s legal replies.",
+      "verified": true
+    },
+    "x24": {
+      "id": "x24",
+      "fen": "6k1/8/8/8/8/8/3R4/7K w - - 0 1",
+      "title": "Active rook check",
+      "difficulty": "Beginner",
+      "theme": "Rook Activity",
+      "solution": "Rd8+",
+      "explanation": "An active rook can check from behind and restrict the king.",
+      "verified": true
+    },
+    "y1": {
+      "id": "y1",
+      "fen": "6k1/3r4/8/4N3/8/8/8/6K1 w - - 0 1",
+      "title": "Win the rook with knight fork/capture",
+      "difficulty": "Intermediate",
+      "theme": "Knight Tactics",
+      "solution": "Nxd7",
+      "explanation": "The knight captures the loose rook; scan for valuable targets on knight moves.",
+      "verified": true
+    },
+    "y2": {
+      "id": "y2",
+      "fen": "4k3/8/2n5/1B6/8/8/8/6K1 w - - 0 1",
+      "title": "Capture the pinned knight",
+      "difficulty": "Intermediate",
+      "theme": "Pin",
+      "solution": "Bxc6+",
+      "explanation": "The bishop removes the pinned knight and gives check.",
+      "verified": true
+    },
+    "y3": {
+      "id": "y3",
+      "fen": "4k3/8/8/4r3/8/8/8/4R1K1 w - - 0 1",
+      "title": "Capture the skewer target",
+      "difficulty": "Intermediate",
+      "theme": "Skewer",
+      "solution": "Rxe5+",
+      "explanation": "The rook captures the exposed rook and continues the check along the file.",
+      "verified": true
+    },
+    "y4": {
+      "id": "y4",
+      "fen": "5rk1/5Npp/8/8/8/8/8/4R1K1 w - - 0 1",
+      "title": "Back-rank conversion with knight guard",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8",
+      "explanation": "Re8 pins and attacks the black rook on f8, threatening immediate mate.",
+      "verified": true
+    },
+    "y5": {
+      "id": "y5",
+      "fen": "7k/6p1/8/8/8/8/5Q2/6K1 w - - 0 1",
+      "title": "Forcing queen check",
+      "difficulty": "Beginner",
+      "theme": "Forcing Moves",
+      "solution": "Qf8+",
+      "explanation": "A forcing queen check makes the opponent respond immediately.",
+      "verified": true
+    },
+    "y6": {
+      "id": "y6",
+      "fen": "4k3/4q3/8/8/8/8/4R3/4K3 w - - 0 1",
+      "title": "Rook pin on queen & king",
+      "difficulty": "Beginner",
+      "theme": "Pin",
+      "solution": "Rxe7+",
+      "explanation": "The rook captures the pinned queen with check, winning the queen for a rook.",
+      "verified": true
+    },
+    "y7": {
+      "id": "y7",
+      "fen": "5rk1/R5pp/8/8/8/8/8/6K1 w - - 0 1",
+      "title": "Rook on 7th rank pressure",
+      "difficulty": "Beginner",
+      "theme": "Rook Technique",
+      "solution": "Ra8",
+      "explanation": "Ra8 puts maximum back-rank pressure on the pinned rook on f8.",
+      "verified": true
+    },
+    "y8": {
+      "id": "y8",
+      "fen": "8/6P1/8/8/8/5k2/8/7K w - - 0 1",
+      "title": "Promote safely to queen",
+      "difficulty": "Beginner",
+      "theme": "Promotion",
+      "solution": "g8=Q",
+      "explanation": "Promote the pawn on g7 to a queen, creating a winning advantage.",
+      "verified": true
+    },
+    "y9": {
+      "id": "y9",
+      "fen": "8/8/8/8/8/4k3/4P3/4K3 w - - 0 1",
+      "title": "King opposition defense",
+      "difficulty": "Beginner",
+      "theme": "Opposition",
+      "solution": "Kd1",
+      "explanation": "Kd1 maintains king opposition and prepares to defend the e2 pawn.",
+      "verified": true
+    },
+    "y10": {
+      "id": "y10",
+      "fen": "8/8/8/8/4k3/8/4P3/4K3 w - - 0 1",
+      "title": "Opposition and pawn advance",
+      "difficulty": "Beginner",
+      "theme": "Opposition",
+      "solution": "Kd2",
+      "explanation": "Step toward the centre and take the opposition before pushing the pawn.",
+      "verified": true
+    },
+    "y11": {
+      "id": "y11",
+      "fen": "8/8/8/8/3k4/8/3P4/3K4 w - - 0 1",
+      "title": "Support the passed pawn",
+      "difficulty": "Beginner",
+      "theme": "King and Pawn",
+      "solution": "Ke2",
+      "explanation": "Bring the king into the action to support the d-pawn's advance.",
+      "verified": true
+    },
+    "y12": {
+      "id": "y12",
+      "fen": "8/8/8/3k4/8/8/2R5/4K3 w - - 0 1",
+      "title": "Cut off the king with rook check",
+      "difficulty": "Beginner",
+      "theme": "Rook Endgame",
+      "solution": "Rd2+",
+      "explanation": "A rook check on d2 forces the king backward and controls the d-file.",
+      "verified": true
+    },
+    "y13": {
+      "id": "y13",
+      "fen": "6k1/5ppp/8/8/8/8/8/R5K1 w - - 0 1",
+      "title": "Rook behind the king — back rank mate",
+      "difficulty": "Beginner",
+      "theme": "Rook Technique",
+      "solution": "Ra8#",
+      "explanation": "Check from the a-file rook delivers back-rank checkmate.",
+      "verified": true
+    },
+    "y14": {
+      "id": "y14",
+      "fen": "7k/5ppp/8/8/8/8/2B5/6K1 w - - 0 1",
+      "title": "Bishop activity on diagonal",
+      "difficulty": "Beginner",
+      "theme": "Piece Activity",
+      "solution": "Bf5",
+      "explanation": "Place the bishop on an active diagonal and improve its reach.",
+      "verified": true
+    },
+    "y15": {
+      "id": "y15",
+      "fen": "6k1/8/8/3N4/8/8/4P3/6K1 w - - 0 1",
+      "title": "Knight fork setup",
+      "difficulty": "Beginner",
+      "theme": "Knight Activity",
+      "solution": "Ne7+",
+      "explanation": "A central knight creates a forcing check on e7.",
+      "verified": true
+    },
+    "y16": {
+      "id": "y16",
+      "fen": "4k3/8/8/8/8/8/3R4/6K1 w - - 0 1",
+      "title": "Rook check on open file",
+      "difficulty": "Beginner",
+      "theme": "Checks",
+      "solution": "Rd8+",
+      "explanation": "Use the open file to give a forcing check.",
+      "verified": true
+    },
+    "y17": {
+      "id": "y17",
+      "fen": "6k1/5p1p/8/8/3P4/5K2/2B5/8 w - - 0 1",
+      "title": "Bishop capture with check",
+      "difficulty": "Beginner",
+      "theme": "Checks",
+      "solution": "Bxh7+",
+      "explanation": "Move the bishop to h7 to capture the h-pawn and create a forcing check on the king.",
+      "verified": true
+    },
+    "y18": {
+      "id": "y18",
+      "fen": "6k1/5ppp/8/8/8/8/4Q3/6K1 w - - 0 1",
+      "title": "Queen activity — back rank mate",
+      "difficulty": "Beginner",
+      "theme": "Queen Activity",
+      "solution": "Qe8#",
+      "explanation": "The queen reaches e8 and delivers a back-rank mate.",
+      "verified": true
+    },
+    "y19": {
+      "id": "y19",
+      "fen": "5k2/5ppp/8/8/8/8/4R3/6K1 w - - 0 1",
+      "title": "Rook clamp on back rank",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Re8#",
+      "explanation": "Re8# mates the boxed king on the back rank.",
+      "verified": true
+    },
+    "y20": {
+      "id": "y20",
+      "fen": "7k/5ppp/8/8/8/8/4R3/6K1 w - - 0 1",
+      "title": "Rook mate in one",
+      "difficulty": "Beginner",
+      "theme": "Checkmate",
+      "solution": "Re8#",
+      "explanation": "A classic back-rank mate along the e-file to e8.",
+      "verified": true
+    },
+    "z1": {
+      "id": "z1",
+      "fen": "1q1rk3/8/8/N7/8/8/8/K7 w - - 0 1",
+      "title": "Knight fork — queen and rook",
+      "difficulty": "Intermediate",
+      "theme": "Fork",
+      "solution": "Nc6",
+      "explanation": "Nc6 attacks both the queen on b8 and the rook on d8 at the same time. Black can only save one piece — always scan knight moves for double attacks.",
+      "verified": true
+    },
+    "z2": {
+      "id": "z2",
+      "fen": "r5r1/8/7k/8/8/8/B7/7K w - - 0 1",
+      "title": "Bishop fork — two rooks",
+      "difficulty": "Intermediate",
+      "theme": "Fork",
+      "solution": "Bd5",
+      "explanation": "Bd5 sits on the diagonal that touches both a8 and g8 at once. A well-placed bishop can fork just as effectively as a knight.",
+      "verified": true
+    },
+    "z3": {
+      "id": "z3",
+      "fen": "3r4/7k/8/r7/8/8/8/3Q2K1 w - - 0 1",
+      "title": "Queen fork — rank and file",
+      "difficulty": "Intermediate",
+      "theme": "Fork",
+      "solution": "Qd5",
+      "explanation": "Qd5 attacks the rook on a5 along the 5th rank and the rook on d8 along the d-file simultaneously — the queen can fork using any of its lines at once.",
+      "verified": true
+    },
+    "z4": {
+      "id": "z4",
+      "fen": "4k3/3n4/8/4N3/8/8/8/K3R3 w - - 0 1",
+      "title": "Discovered check with a capture",
+      "difficulty": "Advanced",
+      "theme": "Discovered Attack",
+      "solution": "Nxd7",
+      "explanation": "The knight was blocking the rook on e1. Nxd7 captures a piece and simultaneously opens the e-file, giving check from the rook — a discovered check that also wins material.",
+      "verified": true
+    },
+    "z5": {
+      "id": "z5",
+      "fen": "4k3/8/8/8/4N3/8/8/K3R3 w - - 0 1",
+      "title": "Double check",
+      "difficulty": "Advanced",
+      "theme": "Double Check",
+      "solution": "Nd6",
+      "explanation": "Nd6+ is a double check: the knight itself attacks e8, and moving it off the e-file reveals a check from the rook on e1. On a double check the only legal reply is to move the king — no block or capture can answer both checks.",
+      "verified": true
+    },
+    "z6": {
+      "id": "z6",
+      "fen": "6rk/6pp/3N4/8/8/8/8/K7 w - - 0 1",
+      "title": "Smothered mate finish",
+      "difficulty": "Advanced",
+      "theme": "Smothered Mate",
+      "solution": "Nf7#",
+      "explanation": "The black king on h8 is boxed in by its own rook and pawns. Nf7 delivers checkmate because the king has no flight square and nothing can capture or block a knight check.",
+      "verified": true
+    },
+    "z7": {
+      "id": "z7",
+      "fen": "7k/4N1p1/8/8/8/8/8/K2R4 w - - 0 1",
+      "title": "Anastasia's mate",
+      "difficulty": "Advanced",
+      "theme": "Anastasia's Mate",
+      "solution": "Rh1#",
+      "explanation": "The knight on e7 covers g8, the black pawn on g7 blocks the other escape square, and Rh1 checks all the way down the open h-file with no flight square left — a textbook Anastasia’s mate.",
+      "verified": true
+    },
+    "z8": {
+      "id": "z8",
+      "fen": "1rkb4/1pp5/8/8/2B5/8/8/K7 w - - 0 1",
+      "title": "Boxed king — bishop mate",
+      "difficulty": "Advanced",
+      "theme": "Boden's Mate Pattern",
+      "solution": "Be6#",
+      "explanation": "Black’s own rook and bishop block every flight square around the king, and the pawns on b7/c7 cannot interpose. Be6 delivers mate along the long diagonal — a reminder that a boxed-in king is often more dangerous than a centralised one.",
+      "verified": true
+    },
+    "z9": {
+      "id": "z9",
+      "fen": "3q2k1/5ppp/8/3p4/2P2N2/8/8/6K1 w - - 0 1",
+      "title": "Count the attackers and defenders",
+      "difficulty": "Intermediate",
+      "theme": "Counting Attackers/Defenders",
+      "solution": "Nxd5",
+      "explanation": "The pawn on d5 looks defended by the queen, but a second white attacker — the pawn on c4 — also guards d5. If Black recaptures with the queen, cxd5 wins the queen for a knight and a pawn. Always count every attacker and defender of a square before assuming a piece is safe.",
+      "verified": true
+    },
+    "z10": {
+      "id": "z10",
+      "fen": "8/r1P1k3/8/8/8/8/8/7K w - - 0 1",
+      "title": "Underpromotion fork",
+      "difficulty": "Advanced",
+      "theme": "Underpromotion",
+      "solution": "c8=N+",
+      "explanation": "Promoting to a queen or rook allows Black to play ...Rxa7 or creates an escape, but promoting to a knight gives check to the king and forks the rook on a7 simultaneously — an underpromotion tactic where a knight achieves what a queen cannot.",
+      "verified": true
+    },
+    "m1": {
+      "id": "m1",
+      "fen": "r1b1kb1r/pppp1ppp/8/4q3/2B1n3/8/PPP2PPP/RNBQK2R w KQkq - 0 7",
+      "title": "Discovered attack on the queen",
+      "difficulty": "Intermediate",
+      "theme": "Discovered Attack",
+      "solution": "Qe2",
+      "explanation": "Qe2 pins the e4 knight against the black queen, preparing to win material with d3 and discovered check.",
+      "verified": true
+    },
+    "m2": {
+      "id": "m2",
+      "fen": "r1b2rk1/ppp2ppp/2n5/4p3/2B2q2/3P1N2/PPP2PPP/R2QK2R w KQ - 0 10",
+      "title": "Knight outpost jump",
+      "difficulty": "Intermediate",
+      "theme": "Piece Activity",
+      "solution": "Qd2",
+      "explanation": "Qd2 challenges the active black queen and prepares to centralise White's rooks on the d-file.",
+      "verified": true
+    },
+    "m3": {
+      "id": "m3",
+      "fen": "r4rk1/1pp2ppp/p1np4/4p3/2B1P1b1/2NP1N2/PPP2PPP/R2Q1RK1 w - - 0 10",
+      "title": "Deflection of the bishop",
+      "difficulty": "Intermediate",
+      "theme": "Deflection",
+      "solution": "h3",
+      "explanation": "h3 asks the bishop what it wants to do, forcing it to retreat or trade on f3 without damaging pawn structure.",
+      "verified": true
+    },
+    "m4": {
+      "id": "m4",
+      "fen": "r1bq1rk1/pppp1pp1/2n2n1p/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQR1K1 w - - 0 7",
+      "title": "Quiet prophylactic move",
+      "difficulty": "Intermediate",
+      "theme": "Prophylaxis",
+      "solution": "h3",
+      "explanation": "h3 prevents ...Bg4 pin and creates a secure escape square on h2 for the king in the middlegame.",
+      "verified": true
+    },
+    "m5": {
+      "id": "m5",
+      "fen": "r2qk2r/ppp2ppp/2n1bn2/2bpp3/4P3/2PP1N2/PP1NBPPP/R1BQK2R w KQkq - 0 7",
+      "title": "Central tension release",
+      "difficulty": "Intermediate",
+      "theme": "Pawn Break",
+      "solution": "O-O",
+      "explanation": "Castling secures the king before resolving the central pawn tension on e4 and d5.",
+      "verified": true
+    },
+    "m6": {
+      "id": "m6",
+      "fen": "r1b1k2r/pppp1ppp/2n2n2/2q1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6",
+      "title": "Bishop attack with tempo",
+      "difficulty": "Beginner",
+      "theme": "Piece Safety",
+      "solution": "Be3",
+      "explanation": "Be3 develops the dark-squared bishop with tempo, attacking the overextended black queen on c5.",
+      "verified": true
+    },
+    "m7": {
+      "id": "m7",
+      "fen": "6k1/5ppp/8/8/8/8/1q3PPP/4R1K1 w - - 0 1",
+      "title": "Back-rank mate in the endgame",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Re8#",
+      "explanation": "Re8# delivers checkmate despite Black being up a full queen! Never neglect back-rank safety.",
+      "verified": true
+    },
+    "m8": {
+      "id": "m8",
+      "fen": "r1b2rk1/2q1bppp/p1nppn2/1p6/4PP2/1NNB1Q2/PPP3PP/R1B2R1K w - - 0 12",
+      "title": "Sicilian central breakthrough",
+      "difficulty": "Advanced",
+      "theme": "Pawn Break",
+      "solution": "e5",
+      "explanation": "12.e5! strikes at the center, attacking the f6 knight and unmasking a kingside attacking storm.",
+      "verified": true
+    },
+    "m9": {
+      "id": "m9",
+      "fen": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQ - 0 9",
+      "title": "Yugoslav Attack king safety preparation",
+      "difficulty": "Advanced",
+      "theme": "Opposite Side Castling",
+      "solution": "Qd2",
+      "explanation": "Qd2 prepares O-O-O and the Bh6 trade in the Dragon Sicilian.",
+      "verified": true
+    },
+    "m10": {
+      "id": "m10",
+      "fen": "2r2rk1/1pqbbppp/p1nppn2/8/2PNP3/1PN1B3/P3BPPP/2RQ1RK1 w - - 0 13",
+      "title": "The c-file knight jump tactic",
+      "difficulty": "Advanced",
+      "theme": "Tactics",
+      "solution": "Nd5",
+      "explanation": "Nd5! is the thematic Sicilian tactical strike exploiting the pinned c7 queen along the c-file.",
+      "verified": true
+    },
+    "m11": {
+      "id": "m11",
+      "fen": "r1b1k2r/ppqn1ppp/2pbpn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 0 8",
+      "title": "Pawn center classical clamp",
+      "difficulty": "Intermediate",
+      "theme": "Centre Control",
+      "solution": "e4",
+      "explanation": "e4 creates a powerful classical central pawn duo in the Queen's Gambit.",
+      "verified": true
+    },
+    "m12": {
+      "id": "m12",
+      "fen": "r2q1rk1/pb1nbppp/1pp1pn2/3p4/2PP4/1PN1PN2/PB2BPPP/R2Q1RK1 w - - 0 10",
+      "title": "Connecting rooks in the opening",
+      "difficulty": "Intermediate",
+      "theme": "Positional",
+      "solution": "Qc2",
+      "explanation": "Qc2 connects the rooks and controls the critical c-file and e4 square.",
+      "verified": true
+    },
+    "m13": {
+      "id": "m13",
+      "fen": "r1b2rk1/pp1n1ppp/2p1pn2/q2p4/2PP4/2NBPN2/PP3PPP/R2QK2R w KQ - 0 9",
+      "title": "Break the pin with castling",
+      "difficulty": "Beginner",
+      "theme": "Development",
+      "solution": "O-O",
+      "explanation": "Castling breaks the absolute pin on the knight and brings the king to safety.",
+      "verified": true
+    },
+    "m14": {
+      "id": "m14",
+      "fen": "6k1/pp3ppp/2p5/8/8/8/PP3PPP/3R2K1 w - - 0 1",
+      "title": "Endgame back-rank mate down open file",
+      "difficulty": "Beginner",
+      "theme": "Back Rank Mate",
+      "solution": "Rd8#",
+      "explanation": "Rd8# delivers instant checkmate down the open d-file against the boxed king.",
+      "verified": true
+    },
+    "m15": {
+      "id": "m15",
+      "fen": "3r2k1/pp3ppp/2p5/8/8/8/PP3PPP/3R2K1 w - - 0 1",
+      "title": "Rook capture with checkmate",
+      "difficulty": "Beginner",
+      "theme": "Rook Trade",
+      "solution": "Rxd8#",
+      "explanation": "Rxd8# captures the rook and delivers back-rank checkmate.",
+      "verified": true
+    },
+    "m16": {
+      "id": "m16",
+      "fen": "r1b1k2r/ppppqppp/2n2n2/8/1bPP4/2N2N2/PP2BPPP/R1BQK2R w KQkq - 0 7",
+      "title": "Break the pin with castling king",
+      "difficulty": "Beginner",
+      "theme": "King Safety",
+      "solution": "O-O",
+      "explanation": "Castling completes development and unpins the c3 knight.",
+      "verified": true
+    },
+    "m17": {
+      "id": "m17",
+      "fen": "r1bqk2r/pp2bppp/2n1pn2/2pp4/3P4/2PBPN2/PP1N1PPP/R1BQK2R w KQkq - 0 7",
+      "title": "London System castle",
+      "difficulty": "Beginner",
+      "theme": "Opening Strategy",
+      "solution": "O-O",
+      "explanation": "Castles completes the London System pyramid setup safely.",
+      "verified": true
+    },
+    "m18": {
+      "id": "m18",
+      "fen": "r1b1r1k1/pp3ppp/2n1pn2/q7/2PP4/3B1N2/P2B1PPP/R2QK2R b KQ - 0 12",
+      "title": "Save the queen from bishop attack",
+      "difficulty": "Beginner",
+      "theme": "Piece Safety",
+      "solution": "Qd8",
+      "explanation": "Qd8 retreats the attacked queen to a safe central coordination square.",
+      "verified": true
+    },
+    "m19": {
+      "id": "m19",
+      "fen": "8/5k2/8/8/4K3/4P3/8/8 w - - 0 1",
+      "title": "King advance in pawn ending",
+      "difficulty": "Beginner",
+      "theme": "King Activity",
+      "solution": "Ke5",
+      "explanation": "Ke5 seizes the opposition and outflanks the black king.",
+      "verified": true
+    },
+    "m20": {
+      "id": "m20",
+      "fen": "8/4k3/4P3/4K3/8/8/8/8 w - - 0 1",
+      "title": "Pawn advance on key squares",
+      "difficulty": "Beginner",
+      "theme": "Key Squares",
+      "solution": "Kd5",
+      "explanation": "Kd5 controls the key promotion squares in front of the e6 pawn.",
+      "verified": true
+    }
+  },
+  "games": {
+    "g1": {
+      "id": "g1",
+      "white": "Paul Morphy",
+      "black": "Duke Karl / Count Isouard",
+      "year": 1858,
+      "opening": "Opera Game (Philidor Defence)",
+      "moves": "1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Bxf3 5.Qxf3 dxe5 6.Bc4 Nf6 7.Qb3 Qe7 8.Nc3 c6 9.Bg5 b5 10.Nxb5 cxb5 11.Bxb5+ Nbd7 12.O-O-O Rd8 13.Rxd7 Rxd7 14.Rd1 Qe6 15.Bxd7+ Nxd7 16.Qb8+ Nxb8 17.Rd8#",
+      "annotation": "The famous \"Opera Game\" — a supreme demonstration of rapid piece development, open lines, and decisive tactical sacrifices.",
+      "lessons": [
+        "Development",
+        "Open Lines",
+        "Checkmate"
+      ]
+    },
+    "g2": {
+      "id": "g2",
+      "white": "Adolf Anderssen",
+      "black": "Lionel Kieseritzky",
+      "year": 1851,
+      "opening": "The Immortal Game (King's Gambit)",
+      "moves": "1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5 5.Bxb5 Nf6 6.Nf3 Qh6 7.d3 Nh5 8.Nh4 Qg5 9.Nf5 c6 10.g4 Nf6 11.Rg1 cxb5 12.h4 Qg6 13.h5 Qg5 14.Qf3 Ng8 15.Bxf4 Qf6 16.Nc3 Bc5 17.Nd5 Qxb2 18.Bd6 Bxg1 19.e5 Qxa1+ 20.Ke2 Na6 21.Nxg7+ Kd8 22.Qf6+ Nxf6 23.Be7#",
+      "annotation": "The legendary \"Immortal Game\" — Anderssen sacrifices bishop, both rooks, and his queen to deliver a picturesque checkmate.",
+      "lessons": [
+        "Sacrifice",
+        "Attack",
+        "Combinations"
+      ]
+    },
+    "g3": {
+      "id": "g3",
+      "white": "Garry Kasparov",
+      "black": "Anatoly Karpov",
+      "year": 1985,
+      "opening": "Sicilian Defence (Game 16, World Championship)",
+      "moves": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5 9.cxd5 exd5 10.exd5 Nb4 11.Be2 Bc5 12.O-O O-O 13.Bf3 Bf5 14.Bg5 Re8 15.Qd2 b5 16.Rad1 Nd3 17.Nab1 h6 18.Bh4 b4 19.Na4 Bd6 20.Bg3 Rc8 21.b3 g5 22.Bxd6 Qxd6 23.g3 Nd7 24.Bg2 Qf6 25.a3 a5 26.axb4 axb4 27.Qa2 Bg6 28.d6 g4 29.Qd2 Kg7 30.f3 Qxd6 31.fxg4 Qd4+ 32.Kh1 Nf6 33.Rf4 Ne4 34.Qxd3 Nf2+ 35.Rxf2 Bxd3 36.Rfd2 Qe3 37.Rxd3 Rc1 38.Nb2 Qf2 39.Nd2 Rxd1+ 40.Nxd1 Re1+",
+      "annotation": "Kasparov's immortal masterpiece featuring the \"octopus knight\" anchored on d3, completely paralyzing White's army.",
+      "lessons": [
+        "Outpost",
+        "Positional Dominance",
+        "Piece Activity"
+      ]
+    },
+    "g4": {
+      "id": "g4",
+      "white": "Mikhail Tal",
+      "black": "Mikhail Botvinnik",
+      "year": 1960,
+      "opening": "King's Indian Defence (Game 6, World Championship)",
+      "moves": "1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nc3 Nbd7 7.O-O e5 8.e4 c6 9.h3 Qb6 10.d5 cxd5 11.cxd5 Nc5 12.Ne1 Bd7 13.Nd3 Nxd3 14.Qxd3 Rfc8 15.Rb1 Nh5 16.Be3 Qb4 17.Qe2 Rc4 18.Rfc1 Rac8 19.Kh2 f5 20.exf5 Bxf5 21.Ra1 Nf4 22.gxf4 exf4 23.Bd2 Qxb2 24.Rab1 f3 25.Rxb2 fxe2 26.Rb3 Rd4 27.Be1 Be5+ 28.Kg1 Bf4 29.Nxe2 Rxc1 30.Nxd4 Rxe1+ 31.Bf1 Be4 32.Ne2 Be5 33.f4 Bf6 34.Rxb7 Bxd5 35.Rc7 Bxa2 36.Rxa7 Bc4 37.Ra8+ Kf7 38.Ra7+ Ke6 39.f5+ Kxf5 40.Kf2 Bh4+ 41.Kg2 Bd5+ 42.Kh2 Bf2 43.Ra5 Bc5 44.Ng3+ Kf4 45.Ra4+ Ke3 46.Bg2 Bxg2 47.Kxg2 d5",
+      "annotation": "Tal unleashed his electrifying 21...Nf4!! sacrifice, throwing the position into complications and seizing the World Championship crown.",
+      "lessons": [
+        "Intuitive Sacrifices",
+        "Initiative",
+        "King's Indian Attack"
+      ]
+    },
+    "g5": {
+      "id": "g5",
+      "white": "Donald Byrne",
+      "black": "Bobby Fischer",
+      "year": 1956,
+      "opening": "Gruenfeld Defence (\"The Game of the Century\")",
+      "moves": "1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.d4 O-O 5.Bf4 d5 6.Qb3 dxc4 7.Qxc4 c6 8.e4 Nbd7 9.Rd1 Nb6 10.Qc5 Bg4 11.Bg5 Na4 12.Qa3 Nxc3 13.bxc3 Nxe4 14.Bxe7 Qb6 15.Bc4 Nxc3 16.Bc5 Rfe8+ 17.Kf1 Be6 18.Bxb6 Bxc4+ 19.Kg1 Ne2+ 20.Kf1 Nxd4+ 21.Kg1 Ne2+ 22.Kf1 Nc3+ 23.Kg1 axb6 24.Qb4 Ra4 25.Qxb6 Nxd1 26.h3 Rxa2 27.Kh2 Nxf2 28.Re1 Rxe1 29.Qd8+ Bf8 30.Nxe1 Bd5 31.Nf3 Ne4 32.Qb8 b5 33.h4 h5 34.Ne5 Kg7 35.Kg1 Bc5+ 36.Kf1 Ng3+ 37.Ke1 Bb4+ 38.Kd1 Bb3+ 39.Kc1 Ne2+ 40.Kb1 Nc3+ 41.Kc1 Rc2#",
+      "annotation": "The \"Game of the Century\" — 13-year-old Bobby Fischer plays the stunning queen sacrifice 17...Be6!! and converts a windmill attack into mate.",
+      "lessons": [
+        "Queen Sacrifice",
+        "Windmill Attack",
+        "Coordination"
+      ]
+    },
+    "g6": {
+      "id": "g6",
+      "white": "Alexander Alekhine",
+      "black": "Emanuel Lasker",
+      "year": 1914,
+      "opening": "Queen's Gambit Declined (St. Petersburg)",
+      "moves": "1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nc6 12.O-O b6 13.Rad1 Bb7 14.Rfe1 Rc8 15.d5 exd5 16.Bxd5 Na5 17.Qf4 Qc7 18.Qf5 Bxd5 19.exd5 Qc2 20.Qxc2 Rxc2 21.d6 Rd8 22.d7 Kf8 23.Ng5",
+      "annotation": "Alekhine demonstrates classical central dominance and the power of an aggressive advanced passed d-pawn.",
+      "lessons": [
+        "Central Dominance",
+        "Passed Pawns",
+        "Prophylaxis"
+      ]
+    },
+    "g7": {
+      "id": "g7",
+      "white": "Vladimir Kramnik",
+      "black": "Garry Kasparov",
+      "year": 2000,
+      "opening": "Ruy Lopez (Berlin Defence, Game 3)",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 Bd7 10.b3 h6 11.Bb2 Kc8 12.h3 b6 13.Rad1 Ne7 14.Ne2 Ng6 15.Ne1 h5 16.Nd3 c5 17.c4 a5 18.a4 h4 19.Nc3 Be6 20.Nd5 Kb7 21.Ne3 Rh5 22.f4 Ne7 23.Nf2 Re8 24.Bc3 g6 25.Ne4 Bg7 26.Nd5 Nf5 27.Rf3 Kc8 28.Rfd3 Rhh8 29.Kf2 Kb7 30.Kf3 Rc8 31.Bb2 Rce8 32.Bc3 Rc8 33.Bb2 Rce8 34.Bc3",
+      "annotation": "Kramnik's famous \"Berlin Wall\" endgame structure that neutralized Kasparov's attacking prowess and revolutionized modern opening theory.",
+      "lessons": [
+        "Berlin Wall",
+        "Pawn Structures",
+        "Endgame Strategy"
+      ]
+    },
+    "g8": {
+      "id": "g8",
+      "white": "Jose Raul Capablanca",
+      "black": "Savielly Tartakower",
+      "year": 1924,
+      "opening": "Queen's Gambit Declined (New York)",
+      "moves": "1.d4 e6 2.Nf3 f5 3.c4 Nf6 4.Bg5 Be7 5.Nc3 O-O 6.e3 b6 7.Bd3 Bb7 8.O-O Qe8 9.Qe2 Ne4 10.Bxe7 Nxc3 11.bxc3 Qxe7 12.a4 Bxf3 13.Qxf3 Nc6 14.Rfb1 Rae8 15.Qh3 Rf6 16.f4 Na5 17.Qf3 d6 18.e4 fxe4 19.Qxe4 g6 20.g3 e5 21.Re1 Qf7 22.dxe5 dxe5 23.c5 Qf8 24.cxb6 Qc5+ 25.Kg2 axb6 26.Re2 Qxc3 27.Rae1 Rd6 28.Bb5 c6 29.Re3 Qc5 30.Bf1 Rd4 31.Qb1 Rxa4 32.Rxe5 Rxe5 33.Rxe5 Qd4 34.Qe1 Ra2+ 35.Kh3 Qd7+ 36.g4 Ra3+ 37.Kh4 Qd8+ 38.g5 Kf7 39.Qb4 Ra2 40.Bc4+ Nxc4 41.Qxc4+ Kf8 42.Qxa2 h6 43.Qe6 hxg5+ 44.Rxg5 Qd2 45.Qf6+ Ke8 46.Re5+ Kd7 47.Qe6+ Kc7 48.Qe7+ Kb8 49.Qf8+ Kb7 50.Re7+ Ka6 51.Qa8+ Kb5 52.Re5+ c5 53.Qe8+ Kb4 54.Re4+ c4 55.Qe7+ Kb3 56.Re3+ c3 57.Qe6+ Ka3 58.Kg3 b5 59.Qe7+ b4 60.Qa7+ Kb2 61.Re6 Qd3+ 62.Kh4 c2 63.Qg7+ Kb1",
+      "annotation": "The most celebrated practical rook endgame ever played — Capablanca orchestrates his king march into the enemy camp and converts the win.",
+      "lessons": [
+        "King March",
+        "Active Rook",
+        "Endgame Conversion"
+      ]
+    },
+    "g9": {
+      "id": "g9",
+      "white": "Anatoly Karpov",
+      "black": "Garry Kasparov",
+      "year": 1985,
+      "opening": "Sicilian Defence (Game 24, World Championship)",
+      "moves": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.f4 O-O 9.Kh1 Qc7 10.a4 Nc6 11.Be3 Re8 12.Bf3 Rb8 13.Qd2 Bd7 14.Nb3 b6 15.g4 Bc8 16.g5 Nd7 17.Qf2 Bf8 18.Bg2 Bb7 19.Rad1 g6 20.Bc1 Rbc8 21.Rd3 Nb4 22.Rh3 Bg7 23.Be3 Re7 24.Kg1 Rce8 25.Rd1 f5 26.gxf6 Nxf6 27.Rg3 Rf7 28.Bxb6 Qb8 29.Be3 Nh5 30.Rg4 Nf6 31.Rh4 g5 32.fxg5 Ng4 33.Qd2 Nxe3 34.Qxe3 Nxc2 35.Qb6 Ba8 36.Rxd6 Rb7 37.Qxa6 Rxb3 38.Rxe6 Rxb2 39.Qc4 Kh8 40.e5 Qa7+ 41.Kh1 Bxg2+ 42.Kxg2 Nd4+",
+      "annotation": "Kasparov wins the final game of the match with an explosive kingside counter-attack to become the youngest World Champion in history.",
+      "lessons": [
+        "Counter-attack",
+        "World Championship",
+        "Dynamic Defense"
+      ]
+    },
+    "g10": {
+      "id": "g10",
+      "white": "Viswanathan Anand",
+      "black": "Magnus Carlsen",
+      "year": 2013,
+      "opening": "Nimzo-Indian Defence (Game 9, World Championship)",
+      "moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 exd5 8.e3 c4 9.Ne2 Nc6 10.g4 O-O 11.Bg2 Na5 12.O-O Nb3 13.Ra2 b5 14.Ng3 a5 15.g5 Ne8 16.e4 Nxc1 17.Qxc1 Ra6 18.e5 Nc7 19.f4 b4 20.axb4 axb4 21.Rxa6 Nxa6 22.f5 b3 23.Qf4 Nc7 24.f6 g6 25.Qh4 Ne8 26.Qh6 b2 27.Rf4 b1=Q+ 28.Nf1 Qe1",
+      "annotation": "Carlsen defends calmly against Anand's aggressive kingside pawn storm and queens his passed b-pawn to lock down the World Championship title.",
+      "lessons": [
+        "Passed Pawn",
+        "Calm Defense",
+        "Counterplay"
+      ]
+    },
+    "g11": {
+      "id": "g11",
+      "white": "Vladimir Kramnik",
+      "black": "Viswanathan Anand",
+      "year": 2008,
+      "opening": "Semi-Slav Defence (Meran Variation, Game 3)",
+      "moves": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 gxf6 13.O-O Qb6 14.Qe2 Bb7 15.Bxb5 Rg8 16.Bf4 Bd6 17.Bg3 f5 18.Rfc1 f4 19.Bh4 Be7 20.a4 Bxh4 21.Nxh4 Ke7 22.Ra3 Rac8 23.Rxc8 Rxc8 24.Ra1 Qc5 25.Qg4 Qe5 26.Nf3 Qf6 27.Re1 Rc5 28.b4 Rc3 29.Nxd4 Qxd4 30.Rd1 Nf6 31.Rxd4 Nxg4 32.Rd7+ Kf6 33.Rxb7 Rc1+ 34.Bf1 Ne3 35.fxe3 fxe3 36.Rb5 e2 37.Rf5+ Kxf5 38.h3 e1=Q 39.Kh2 Qxf1 40.a5 Qf4+ 41.g3 Qf2#",
+      "annotation": "Anand introduces the brilliant novelty 14...Bb7!! and dismantles Kramnik's preparation in a tactical tour-de-force.",
+      "lessons": [
+        "Opening Preparation",
+        "Dynamic Sacrifice",
+        "King Hunt"
+      ]
+    },
+    "g12": {
+      "id": "g12",
+      "white": "Levon Aronian",
+      "black": "Viswanathan Anand",
+      "year": 2013,
+      "opening": "Semi-Slav (Wijk aan Zee)",
+      "moves": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bd6 9.O-O O-O 10.Qc2 Bb7 11.a3 Rc8 12.Ng5 c5 13.Nxh7 Ng4 14.f4 cxd4 15.exd4 Bc5 16.Be2 Nde5 17.Bxg4 Bxd4+ 18.Kh1 Nxg4 19.Nxf8 f5 20.Ng6 Qf6 21.h3 Qxg6 22.Qe2 Qh5 23.Qd3 Be3",
+      "annotation": "Anand plays one of the most stunning sacrificial combinations of the 21st century, sacrificing both knights and a bishop to weave a mating net.",
+      "lessons": [
+        "Piece Sacrifices",
+        "Mating Nets",
+        "Combinational Play"
+      ]
+    },
+    "g13": {
+      "id": "g13",
+      "white": "Fabiano Caruana",
+      "black": "Magnus Carlsen",
+      "year": 2018,
+      "opening": "Sicilian Defence (Stavanger)",
+      "moves": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.c4 d6 8.Nc3 Nf6 9.O-O Nbd7 10.Qe2 b6 11.f4 Bb7 12.Bd2 O-O 13.Rae1 g6 14.Kh1 Re8 15.Nd4 Rc8 16.b3 Bf8 17.Nf3 Bg7 18.Bb1 Qc7 19.Qf2 Bc6 20.a4 Qb7 21.Qh4 b5 22.axb5 axb5 23.cxb5 Bxb5 24.Nxb5 Qxb5 25.b4 Nb6 26.f5 exf5 27.exf5 Nc4 28.fxg6 hxg6 29.Bh6 Qh5 30.Qxh5 Nxh5 31.Bxg7 Kxg7 32.Rxe8 Rxe8 33.Re1 Rb8 34.g3 Rxb4 35.Ba2 d5 36.Re7 Kf6 37.Ra7 Ne3 38.Kg1 Rb2 39.Ra3 Rg2+ 40.Kh1 Re2 41.Kg1 Ng7 42.Nd4 Re1+ 43.Kf2 Rd1 44.Kxe3 Rxd4 45.Ra6+ Ne6 46.Rxe6+ Kxe6 47.Kxd4",
+      "annotation": "A strategic Sicilian battle showcasing precise pawn play, bishop centralization, and conversion into a winning king-and-pawn endgame.",
+      "lessons": [
+        "Pawn Breaks",
+        "Minor Piece Battles",
+        "Simplification"
+      ]
+    },
+    "g14": {
+      "id": "g14",
+      "white": "Max Euwe",
+      "black": "Alexander Alekhine",
+      "year": 1935,
+      "opening": "Slav Defence (Game 26, World Championship)",
+      "moves": "1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5 9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Rd8 13.Qc1 Be6 14.Nxe5 Nxe5 15.a5 a6 16.Ne4 Bb4 17.Bd2 Qe7 18.Bxb4 Qxb4 19.Qc5 Qxc5 20.Nxc5 Bc8 21.Rfd1 Ke7 22.b3 Nf7 23.e4 Rxd1+ 24.Rxd1 Rd8 25.Rxd8 Nxd8 26.f4 Kd6 27.b4 Ne6 28.e5+ fxe5 29.Ne4+ Ke7 30.fxe5 Nd4 31.Nc5 Nc2 32.Be4 Nxb4 33.Bxh7 g5 34.h4 gxh4 35.gxh4 Bg4 36.Kf2 Nd5 37.Nxb7 Ke6 38.Nc5+ Kxe5 39.Nxa6 Bc8 40.Nc5 Kd4 41.Nb3+ Kc3 42.Nc5 Kd4 43.Nb3+ Kc3 44.Nc5 Kd4 45.Nb3+",
+      "annotation": "Euwe demonstrates rock-solid positional technique in the Slav Defence, maintaining queen-side control throughout.",
+      "lessons": [
+        "Slav Defence",
+        "Knight Maneuvers",
+        "Solid Strategy"
+      ]
+    },
+    "g15": {
+      "id": "g15",
+      "white": "Tigran Petrosian",
+      "black": "Boris Spassky",
+      "year": 1966,
+      "opening": "King's Indian / English (Game 10, World Championship)",
+      "moves": "1.d4 Nf6 2.Nf3 g6 3.g3 c5 4.Bg2 cxd4 5.Nxd4 Nc6 6.O-O Bg7 7.c4 O-O 8.Nc3 Nxd4 9.Qxd4 d6 10.Qh4 Qa5 11.Nd5 Nxd5 12.cxd5 Bf6 13.Bg5 Bxg5 14.Qxg5 e5 15.Qe7 Qd8 16.Qxd8 Rxd8 17.Rfc1 Bd7 18.Rc7 Rab8 19.Rac1 Kf8 20.f4 exf4 21.gxf4 Ke8 22.e4 Rdc8 23.Kf2 Kd8 24.Rxc8+ Rxc8 25.Rxc8+ Bxc8 26.Ke3 Ke7 27.Kd4 f6 28.h4 h6 29.e5 g5 30.exf6+ Kxf6 31.fxg5+ hxg5 32.hxg5+ Kxg5 33.a4 Kf6 34.a5 Ke7 35.Be4 Kd8 36.Bd3 Kc7 37.Bb5 Bh3 38.b4 Bg4 39.Bd3 Bh3 40.Be2 Bg2 41.b5 b6 42.a6 Kd7 43.Bg4+ Ke7 44.Bf5 Kf6 45.Bd3 Kg5 46.Be2 Kf4 47.Bd3",
+      "annotation": "Petrosian's classic demonstration of prophylactic chess — restricting Black's piece activity and maintaining an impenetrable fortress.",
+      "lessons": [
+        "Prophylaxis",
+        "Pawn Chains",
+        "Fortress"
+      ]
+    },
+    "g16": {
+      "id": "g16",
+      "white": "Jose Raul Capablanca",
+      "black": "Frank James Marshall",
+      "year": 1918,
+      "opening": "Ruy Lopez (Marshall Attack Refutation)",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5 9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Qf3 Bg4 16.Qg2 Qh5 17.Nd2 Rae8 18.Rxe8 Rxe8 19.f3 Bh3 20.Qf2 Nf4 21.Ne4 Nd3 22.Qe2 Rxe4 23.Qxe4 Bf5 24.Qe2 c5 25.Bd2 c4 26.Bc2 h6 27.b3 Qg6 28.Bxd3 Bxd3 29.Qe8+ Kh7 30.Kg2 h5 31.bxc4 bxc4 32.Re1 h4 33.Qd8 hxg3 34.Qh4+ Kg8 35.hxg3 f5 36.Bf4 Bxf4 37.Qxf4 Qb6 38.Qd2 a5 39.Re5 a4 40.d5 a3 41.Re6 Qb2 42.Qf2 Qxc3 43.d6 Qb2 44.d7",
+      "annotation": "Marshall sprang his secretly prepared gambit on Capablanca over the board. Capablanca calculated flawlessly under fire to refute the attack.",
+      "lessons": [
+        "Defense Under Pressure",
+        "Calculation",
+        "Marshall Gambit"
+      ]
+    },
+    "g17": {
+      "id": "g17",
+      "white": "Mikhail Botvinnik",
+      "black": "Jose Raul Capablanca",
+      "year": 1938,
+      "opening": "Nimzo-Indian Defence (AVRO 1938)",
+      "moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 exd5 8.Bd3 O-O 9.Ne2 b6 10.O-O Ba6 11.Bxa6 Nxa6 12.Bb2 Qd7 13.a4 Rfe8 14.Qd3 c4 15.Qc2 Nb8 16.Rae1 Nc6 17.Ng3 Na5 18.f3 Nb3 19.e4 Qxa4 20.e5 Nd7 21.Qf2 g6 22.f4 f5 23.exf6 Nxf6 24.f5 Rxe1 25.Rxe1 Re8 26.Re6 Rxe6 27.fxe6 Kg7 28.Qf4 Qe8 29.Qe5 Qe7 30.Ba3 Qxa3 31.Nh5+ gxh5 32.Qg5+ Kf8 33.Qxf6+ Kg8 34.e7 Qc1+ 35.Kf2 Qc2+ 36.Kg3 Qd3+ 37.Kh4 Qe4+ 38.Kxh5 Qe2+ 39.Kh4 Qe4+ 40.g4 Qe1+ 41.Kh5",
+      "annotation": "Botvinnik executes the breathtaking double piece sacrifice 30.Ba3!! and 31.Nh5+!! against Capablanca in one of the most famous games of all time.",
+      "lessons": [
+        "Center Control",
+        "Attacking Sacrifices",
+        "Dynamic Kingside Assault"
+      ]
+    },
+    "g18": {
+      "id": "g18",
+      "white": "Anatoly Karpov",
+      "black": "Garry Kasparov",
+      "year": 1984,
+      "opening": "Sicilian Defence (Game 9, World Championship)",
+      "moves": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Qb3 Na5 13.Qxb6 Nxe4 14.Nxe4 Bxe4 15.Qxd8 Bxd8 16.Rad1 Be7 17.Rd2 Rfb8 18.Nb1 Bxb1 19.Rxb1 Nc6 20.Bf3 Rc8 21.b4 Rab8 22.b5 Ne5 23.Be2 Nxc4 24.Bxc4 Rxc4 25.b6 Rb7 26.g3 d5 27.Rd4 Rc6 28.Ra4 Bc5 29.Rc1 Bxe3 30.Rxc6 Bxb6 31.Rc8+",
+      "annotation": "Karpov demonstrates surgical squeeze technique, exploiting the b6 square and pins along the c-file to deliver back-rank mate.",
+      "lessons": [
+        "Positional Squeeze",
+        "Back Rank Pressure",
+        "Queenside Attack"
+      ]
+    },
+    "g19": {
+      "id": "g19",
+      "white": "Vasily Smyslov",
+      "black": "Mikhail Botvinnik",
+      "year": 1954,
+      "opening": "Caro-Kann Defence (Game 12, World Championship)",
+      "moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7 9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7 13.Ne4 Qa5 14.Kb1 Nxe4 15.Qxe4 Nf6 16.Qe2 Rd8 17.Ne5 c5 18.Bd2 Qc7 19.Qb5+ Nd7 20.Bf4 a6 21.Qe2 Nxe5 22.Bxe5 Bd6 23.Bxg7 Rg8 24.Bf6 Be7 25.Be5 Bd6 26.Bf6 Be7 27.Bxe7 Kxe7 28.d5 Rxg2 29.Qf3 Rg5 30.dxe6 fxe6 31.Rxd8 Kxd8 32.Qf8+ Kd7 33.Rd1+ Kc6 34.Qxh6 Qe5 35.Qf8 Rxh5 36.Qe8+ Kb6 37.Qd8+ Ka7 38.a4 Rh8 39.Qd3 Rh4 40.b3 Rd4 41.Qf1",
+      "annotation": "Smyslov battles Botvinnik in the Classical Caro-Kann, showcasing sharp piece activity and rook centralization.",
+      "lessons": [
+        "Caro-Kann",
+        "Open Ranks",
+        "King Activity"
+      ]
+    },
+    "g20": {
+      "id": "g20",
+      "white": "Bobby Fischer",
+      "black": "Tigran Petrosian",
+      "year": 1971,
+      "opening": "Sicilian Defence (Game 6, Candidates Final)",
+      "moves": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 bxc6 7.O-O d5 8.c4 Nf6 9.cxd5 cxd5 10.exd5 exd5 11.Nc3 Be7 12.Qa4+ Qd7 13.Re1 Qxa4 14.Nxa4 Be6 15.Be3 O-O 16.Bc5 Rfe8 17.Bxe7 Rxe7 18.b4 Kf8 19.Nc5 Bc8 20.f3 Rea7 21.Re5 Bd7 22.Nxd7+ Rxd7 23.Rc1 Rd6 24.Rc7 Nd7 25.Re2 g6 26.Kf2 h5 27.f4 h4 28.Kf3 f5 29.Ke3 d4+ 30.Kd2 Nb6 31.Ree7 Nd5 32.Rf7+ Ke8 33.Rb7 Nxf4 34.Bc4",
+      "annotation": "Fischer converts a 4-vs-3 queenside pawn majority with dominant rook invasion on the 7th rank, forcing Petrosian's capitulation.",
+      "lessons": [
+        "Rook on 7th Rank",
+        "Queenside Majority",
+        "Endgame Precision"
+      ]
+    },
+    "gx1": {
+      "id": "gx1",
+      "white": "Training Game",
+      "black": "Scholar Mate Defence",
+      "year": "Practice",
+      "opening": "Italian setup",
+      "moves": "1.e4 e5 2.Bc4 Nc6 3.Qh5 g6 4.Qf3 Nf6 5.Nc3 Bg7 6.d3 O-O",
+      "annotation": "A beginner-friendly opening drill: defend f7, develop pieces, and castle instead of chasing the queen.",
+      "lessons": [
+        "Development",
+        "King Safety",
+        "Threat Awareness"
+      ]
+    },
+    "gx2": {
+      "id": "gx2",
+      "white": "Training Game",
+      "black": "Fork Hunt",
+      "year": "Practice",
+      "opening": "Tactical mini-game",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4",
+      "annotation": "Use this mini-game to pause before every capture and ask what pieces become loose after the exchange.",
+      "lessons": [
+        "Forks",
+        "Loose Pieces",
+        "CCT"
+      ]
+    },
+    "gx3": {
+      "id": "gx3",
+      "white": "Training Game",
+      "black": "King + Pawn Race",
+      "year": "Practice",
+      "opening": "Pawn Endgame Mini-game",
+      "moves": "1.e4 d5 2.exd5 Kd7 3.Ke2 Kd6 4.Ke3",
+      "annotation": "Do not race the pawn automatically. King position and opposition decide the result.",
+      "lessons": [
+        "Opposition",
+        "King Activity",
+        "Pawn Endgame"
+      ]
+    },
+    "gx4": {
+      "id": "gx4",
+      "white": "Training Game",
+      "black": "Rook Activity",
+      "year": "Practice",
+      "opening": "Rook Endgame Mini-game",
+      "moves": "1.a3 e5 2.a4 d5 3.Ra3 Nf6 4.Rg3",
+      "annotation": "The attacking rook cuts off the king while the friendly king approaches. This is a practical model, not a memorised sequence.",
+      "lessons": [
+        "Rook Activity",
+        "King Activity",
+        "Cut Off The King"
+      ]
+    },
+    "gx5": {
+      "id": "gx5",
+      "white": "Training Game",
+      "black": "Three Checks Challenge",
+      "year": "Practice",
+      "opening": "Calculation Mini-game",
+      "moves": "1.e4 e5 2.Qh5 Nc6 3.Bc4 Nf6 4.Qxf7#",
+      "annotation": "Before every move, name all checks you can see. Then ask whether the check actually improves the position.",
+      "lessons": [
+        "Checks",
+        "Calculation",
+        "King Safety"
+      ]
+    },
+    "gx6": {
+      "id": "gx6",
+      "white": "Training Game",
+      "black": "Piece Safety Game",
+      "year": "Practice",
+      "opening": "Board Vision",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O",
+      "annotation": "A quiet development game. Pause after every move and identify which pieces are attacked and defended.",
+      "lessons": [
+        "Board Vision",
+        "Development",
+        "Defence"
+      ]
+    },
+    "gx7": {
+      "id": "gx7",
+      "white": "Training Game",
+      "black": "Opening Principles",
+      "year": "Practice",
+      "opening": "Italian Game",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d3 O-O 6.Nc3 d6",
+      "annotation": "A model mini-game for development, centre control and king safety. Pause after every move and ask what changed.",
+      "lessons": [
+        "Opening Principles",
+        "Development",
+        "King Safety"
+      ]
+    },
+    "gx8": {
+      "id": "gx8",
+      "white": "Training Game",
+      "black": "Caro-Kann Practice",
+      "year": "Practice",
+      "opening": "Caro-Kann Defence",
+      "moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7",
+      "annotation": "Use this as a repertoire rehearsal: identify the purpose of each developing move instead of memorising the sequence.",
+      "lessons": [
+        "Opening Repertoire",
+        "Development",
+        "Pawn Structure"
+      ]
+    },
+    "gx9": {
+      "id": "gx9",
+      "white": "Training Game",
+      "black": "Queen Trade Practice",
+      "year": "Practice",
+      "opening": "Simple Queen Exchange",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bd6 6.d4 exd4 7.Qxd4",
+      "annotation": "Practise evaluating a queen trade and the resulting pawn structure rather than automatically avoiding exchanges.",
+      "lessons": [
+        "Exchanges",
+        "Pawn Structure",
+        "Evaluation"
+      ]
+    },
+    "gx10": {
+      "id": "gx10",
+      "white": "Training Game",
+      "black": "King Safety Drill",
+      "year": "Practice",
+      "opening": "Development Mini-game",
+      "moves": "1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Be7 5.Bd3 O-O 6.O-O",
+      "annotation": "The objective is not to win quickly. Notice how development and castling make the position easier to play.",
+      "lessons": [
+        "King Safety",
+        "Development",
+        "Planning"
+      ]
+    },
+    "gx11": {
+      "id": "gx11",
+      "white": "Training Game",
+      "black": "Rook Behind Passed Pawn",
+      "year": "Practice",
+      "opening": "Rook Endgame Mini-game",
+      "moves": "1.e4 e5 2.Ke2 Ke7 3.Ke3 Ke6 4.d4 exd4+ 5.Kxd4",
+      "annotation": "A simple transition into a king-and-pawn ending. Ask whose king is more active and why.",
+      "lessons": [
+        "King Activity",
+        "Pawn Endgame",
+        "Calculation"
+      ]
+    },
+    "gx12": {
+      "id": "gx12",
+      "white": "Training Game",
+      "black": "Defence First",
+      "year": "Practice",
+      "opening": "Threat Awareness Mini-game",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Qe2 Nf6 5.d3 O-O 6.O-O",
+      "annotation": "After each move, name the opponent’s threat before choosing your next move.",
+      "lessons": [
+        "Threat Awareness",
+        "King Safety",
+        "CCT"
+      ]
+    },
+    "gg1": {
+      "id": "gg1",
+      "white": "Garry Kasparov",
+      "black": "Veselin Topalov",
+      "year": 1999,
+      "opening": "Kasparov's Immortal (Pirc Defence)",
+      "moves": "1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 Bg7 5.Qd2 c6 6.f3 b5 7.Nge2 Nbd7 8.Bh6 Bxh6 9.Qxh6 Bb7 10.a3 e5 11.O-O-O Qe7 12.Kb1 a6 13.Nc1 O-O-O 14.Nb3 exd4 15.Rxd4 c5 16.Rd1 Nb6 17.g3 Kb8 18.Na5 Ba8 19.Bh3 d5 20.Qf4+ Ka7 21.Rhe1 d4 22.Nd5 Nbxd5 23.exd5 Qd6 24.Rxd4 cxd4 25.Re7+ Kb6 26.Qxd4+ Kxa5 27.b4+ Ka4 28.Qc3 Qxd5 29.Ra7 Bb7 30.Rxb7 Qc4 31.Qxf6 Kxa3 32.Qxa6+ Kxb4 33.c3+ Kxc3 34.Qa1+ Kd2 35.Qb2+ Kd1 36.Bf1 Rd2 37.Rd7 Rxd7 38.Bxc4 bxc4 39.Qxh8 Rd3 40.Qa8 c3 41.Qa4+ Ke1 42.f4 f5 43.Kc1 Rd2 44.Qa7",
+      "annotation": "Wijk aan Zee, 1999, round 4. Kasparov sacrifices a rook on move 24 and then a second exchange, dragging the black king from a7 all the way to d1 in a forced sequence. Topalov resigned on move 44 facing an unstoppable mating attack. Widely rated among the greatest games ever played.",
+      "lessons": [
+        "King Hunt",
+        "Calculation",
+        "Sacrifice for Initiative"
+      ]
+    },
+    "gg2": {
+      "id": "gg2",
+      "white": "Deep Blue",
+      "black": "Garry Kasparov",
+      "year": 1997,
+      "opening": "Caro-Kann Defence, Steinitz Variation",
+      "moves": "1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 h6 8.Nxe6 Qe7 9.O-O fxe6 10.Bg6+ Kd8 11.Bf4 b5 12.a4 Bb7 13.Re1 Nd5 14.Bg3 Kc8 15.axb5 cxb5 16.Qd3 Bc6 17.Bf5 exf5 18.Rxe7 Bxe7 19.c4",
+      "annotation": "New York, 11 May 1997, the deciding sixth game of the historic rematch. Deep Blue’s piece sacrifice 8.Nxe6 shattered Black’s position, and Kasparov resigned after only 19 moves — the first time a reigning World Champion lost a match to a computer.",
+      "lessons": [
+        "Opening Preparation Risk",
+        "King Safety",
+        "Piece Sacrifice for Attack"
+      ]
+    },
+    "gg3": {
+      "id": "gg3",
+      "white": "Nigel Short",
+      "black": "Jan Timman",
+      "year": 1991,
+      "opening": "The King March (Alekhine's Defence)",
+      "moves": "1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.Qe2 Nc6 8.O-O O-O 9.h3 a5 10.a4 dxe5 11.dxe5 Nd4 12.Nxd4 Qxd4 13.Re1 e6 14.Nd2 Nd5 15.Nf3 Qc5 16.Qe4 Qb4 17.Bc4 Nb6 18.b3 Nxc4 19.bxc4 Re8 20.Rd1 Qc5 21.Qh4 b6 22.Be3 Qc6 23.Bh6 Bh8 24.Rd8 Bb7 25.Rad1 Bg7 26.R8d7 Rf8 27.Bxg7 Kxg7 28.R1d4 Rae8 29.Qf6+ Kg8 30.h4 h5 31.Kh2 Rc8 32.Kg3 Rce8 33.Kf4 Bc8 34.Kg5",
+      "annotation": "Tilburg, 1991. After winning total control of the position, Short marches his own king up the board — Kh2-g3-f4-g5 — to help deliver mate while Black's queen and rooks can do nothing about it. Timman resigned facing unstoppable mate. A famous demonstration that king safety rules can be broken once the position allows it.",
+      "lessons": [
+        "King Activity",
+        "Domination",
+        "Breaking \"Rules\" Correctly"
+      ]
+    },
+    "gg4": {
+      "id": "gg4",
+      "white": "Adolf Anderssen",
+      "black": "Jean Dufresne",
+      "year": 1852,
+      "opening": "Evergreen Game (Evans Gambit)",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3 8.Qb3 Qf6 9.e5 Qg6 10.Re1 Nge7 11.Ba3 b5 12.Qxb5 Rb8 13.Qa4 Bb6 14.Nbd2 Bb7 15.Ne4 Qf5 16.Bxd3 Qh5 17.Nf6+ gxf6 18.exf6 Rg8 19.Rad1 Qxf3 20.Rxe7+ Nxe7 21.Qxd7+ Kxd7 22.Bf5+ Ke8 23.Bd7+ Kf8 24.Bxe7#",
+      "annotation": "Berlin, 1852. Anderssen's other true masterpiece besides the Immortal Game. The point is the astonishing 19.Rad1!, offering both rooks and setting up a forced mate — culminating in a queen sacrifice, 21.Qxd7+!!, that finishes the game with three quiet-looking bishop moves.",
+      "lessons": [
+        "Attacking with Tempo",
+        "Queen Sacrifice",
+        "Calculating to a Forced Mate"
+      ]
+    },
+    "gg5": {
+      "id": "gg5",
+      "white": "Robert Byrne",
+      "black": "Bobby Fischer",
+      "year": 1963,
+      "opening": "The Game of the Decade (King's Indian / Grünfeld)",
+      "moves": "1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nc3 Bg7 7.e3 O-O 8.Nge2 Nc6 9.O-O b6 10.b3 Ba6 11.Ba3 Re8 12.Qd2 e5 13.dxe5 Nxe5 14.Rfd1 Nd3 15.Qc2 Nxf2 16.Kxf2 Ng4+ 17.Kg1 Nxe3 18.Qd2 Nxg2 19.Kxg2 d4 20.Nxd4 Bb7+ 21.Kf1 Qd7",
+      "annotation": "US Championship 1963. Fischer played 11...Na4!! and 15...Nxf2!! leaving grandmaster commentators in the press room stunned. Byrne resigned on move 21 facing devastating threats like ...Qh3+ and ...Bd4+.",
+      "lessons": [
+        "Piece Sacrifice",
+        "Light Square Dominance",
+        "Calculation Depth"
+      ]
+    },
+    "gg6": {
+      "id": "gg6",
+      "white": "Mikhail Tal",
+      "black": "Lajos Portisch",
+      "year": 1965,
+      "opening": "Ruy Lopez, Closed Variation",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4 14.cxd4 Nb4 15.Bb1 c5 16.d5 Nd7 17.Ra3 f5 18.Rae3 Nf6 19.Nh2 Kh8 20.b3 bxa4 21.bxa4 c4 22.Bb2 fxe4 23.Nxe4 Nfxd5 24.Rg3 Re6 25.Ng4 Qe8 26.Nxh6 c3 27.Nf5 cxb2 28.Qg4 Bc8 29.Qh4+ Rh6 30.Nxh6 gxh6 31.Kh2 Qe5 32.Ng5 Qf6 33.Re8 Bf5 34.Qxh6+ Qxh6 35.Nf7+ Kh7 36.Bxf5+ Qg6 37.Bxg6+ Kg7 38.Rxa8",
+      "annotation": "Candidates Match 1965. Tal unloads a hurricane of dynamic sacrifices on the kingside (26.Nxh6! and 33.Re8!), demonstrating the supreme power of initiative over material balance.",
+      "lessons": [
+        "Kingside Attack",
+        "Dynamic Sacrifice",
+        "Initiative Preservation"
+      ]
+    },
+    "gg7": {
+      "id": "gg7",
+      "white": "José Raúl Capablanca",
+      "black": "Savielly Tartakower",
+      "year": 1924,
+      "opening": "Bird's / Dutch Defence Transition",
+      "moves": "1.d4 e6 2.Nf3 f5 3.c4 Nf6 4.Bg5 Be7 5.Nc3 O-O 6.e3 b6 7.Bd3 Bb7 8.O-O Qe8 9.Qe2 Ne4 10.Bxe7 Nxc3 11.bxc3 Qxe7 12.a4 Bxf3 13.Qxf3 Nc6 14.Rfb1 Rae8 15.Qh3 Rf6 16.f4 Na5 17.Qf3 d6 18.e4 fxe4 19.Qxe4 g6 20.g3 Qf7 21.Re1 Kf8 22.Kg2 e5 23.dxe5 dxe5 24.fxe5 Rf2+ 25.Kg1 Qf3 26.Qxf3+ Rxf3 27.Rf1 Rxf1+ 28.Rxf1+ Kg7 29.Re1 Nb3 30.Kf2 Nc5 31.Bc2 Kf7 32.Kf3 Ke6 33.h4 Rd8 34.h5 gxh5 35.Rh1 Rd2 36.Bxh7 Nxa4 37.Rxh5 Nxc3 38.Bf5+ Kxe5 39.g4 a5 40.Rh6 Rd6 41.Rh7 c6 42.Re7+ Kd4 43.Kf4 a4 44.g5 a3 45.g6 a2 46.Ra7 Rd8 47.g7 b5 48.cxb5 cxb5 49.Be6 b4 50.Bxa2 Nxa2 51.Rxa2 b3 52.Ra7",
+      "annotation": "New York 1924. A timeless classic of endgame technique. Capablanca marches his king forward into the fray (32.Kf3! Ke6 33.h4!) and flawlessly pushes his passed g-pawn to victory while creating mating nets with his active rook.",
+      "lessons": [
+        "Active King in Endgame",
+        "Passed Pawn Creation",
+        "Endgame Precision"
+      ]
+    },
+    "gg8": {
+      "id": "gg8",
+      "white": "Anatoly Karpov",
+      "black": "Garry Kasparov",
+      "year": 1985,
+      "opening": "Sicilian Defence, Paulsen Variation",
+      "moves": "1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5 9.cxd5 exd5 10.exd5 Nb4 11.Be2 Bc5 12.O-O O-O 13.Bf3 Bf5 14.Bg5 Re8 15.Qd2 b5 16.Rad1 Nd3 17.Nab1 h6 18.Bh4 b4 19.Na4 Bd6 20.Bg3 Rc8 21.b3 g5 22.Bxd6 Qxd6 23.g3 Nd7 24.Bg2 Qf6 25.a3 a5 26.axb4 axb4 27.Qa2 Bg6 28.d6 g4 29.Qd2 Kg7 30.f3 Qxd6 31.fxg4 Qd4+ 32.Kh1 Nf6 33.Rf4 Ne4 34.Qxd3 Nf2+ 35.Rxf2 Bxd3 36.Rfd2 Qe3 37.Rxd3 Rc1 38.Nb2 Qf2 39.Nd2 Rxd1+ 40.Nxd1 Re1+",
+      "annotation": "World Championship 1985, Game 16. Kasparov establishes the famous \"Octopus Knight\" on d3 that completely paralyzes Karpov's entire army, leading to one of the most celebrated positional and tactical crushes in championship history.",
+      "lessons": [
+        "Knight Outposts",
+        "Domination on Central Squares",
+        "Dynamic Counterattack"
+      ]
+    },
+    "gg9": {
+      "id": "gg9",
+      "white": "Boris Spassky",
+      "black": "Bobby Fischer",
+      "year": 1972,
+      "opening": "Queen's Gambit Declined, Tartakower Defense",
+      "moves": "1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5 13.Qa3 Rc8 14.Bb5 a6 15.dxc5 bxc5 16.O-O Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4",
+      "annotation": "World Championship 1972, Game 6. Fischer surprises Spassky with 1.c4 (having never played it in serious matchplay) and produces an artistic masterpiece. Spassky famously joined the audience in applauding Fischer at the end.",
+      "lessons": [
+        "Positional Space Advantage",
+        "Repertoire Surprise",
+        "Pawn Break Exploitation"
+      ]
+    },
+    "gg10": {
+      "id": "gg10",
+      "white": "Mikhail Botvinnik",
+      "black": "José Raúl Capablanca",
+      "year": 1938,
+      "opening": "Nimzo-Indian Defence, Sämisch Variation",
+      "moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 exd5 8.Bd3 O-O 9.Ne2 b6 10.O-O Ba6 11.Bxa6 Nxa6 12.Bb2 Qd7 13.a4 Rfe8 14.Qd3 c4 15.Qc2 Nb8 16.Rae1 Nc6 17.Ng3 Na5 18.f3 Nb3 19.e4 Qxa4 20.e5 Nd7 21.Qf2 g6 22.f4 f5 23.exf6 Nxf6 24.f5 Rxe1 25.Rxe1 Re8 26.Re6 Rxe6 27.fxe6 Kg7 28.Qf4 Qe8 29.Qe5 Qe7 30.Ba3 Qxa3 31.Nh5+ gxh5 32.Qg5+ Kf8 33.Qxf6+ Kg8 34.e7 Qc1+ 35.Kf2 Qc2+ 36.Kg3 Qd3+ 37.Kh4 Qe4+ 38.Kxh5 Qe2+ 39.Kh4 Qe4+ 40.g4 Qe1+ 41.Kh5",
+      "annotation": "AVRO 1938. The future 6th World Champion produces the immortal deflection sacrifice 30.Ba3!!, sacrificing a bishop and knight to force a passed e-pawn and queen promotion while Capablanca's queen is stranded.",
+      "lessons": [
+        "Deflection Sacrifice",
+        "Central Pawn Rolling",
+        "Long-range Calculation"
+      ]
+    },
+    "gg11": {
+      "id": "gg11",
+      "white": "Judit Polgar",
+      "black": "Garry Kasparov",
+      "year": 2002,
+      "opening": "Ruy Lopez, Berlin Defense",
+      "moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8 9.Nc3 h6 10.b3 Ke8 11.Bb2 Be7 12.Rad1 a5 13.a4 h5 14.Ne2 Be6 15.Nf4 Rh6 16.g3 g5 17.Nxe6 fxe6 18.h3 c5 19.g4 hxg4 20.hxg4 Nh4 21.Nxh4 Rxh4 22.f3 c4 23.Kg2 cxb3 24.cxb3 Ra6 25.Bd4 Rc6 26.Rc1 Rxc1 27.Rxc1 Kd7 28.Bc5 Bxc5 29.Rxc5 b6 30.Rc1 Rh8 31.f4 gxf4 32.Kf3 Rh3+ 33.Kxf4 Rxb3 34.g5 Rb2 35.Rg1 Ke7 36.g6 Kf8 37.Kg5 Kg7 38.Rc1 c5 39.Rd1 Rg2+ 40.Kh5 Rh2+ 41.Kg5 Rg2+ 42.Kh5",
+      "annotation": "Russia vs The Rest of the World, Moscow 2002. Judit Polgar makes history by outplaying Garry Kasparov in the Berlin Defense, winning a rook ending with active rook pressure.",
+      "lessons": [
+        "Rook Endgame Pressure",
+        "King Safety Defense",
+        "Historic Milestones"
+      ]
+    },
+    "gg12": {
+      "id": "gg12",
+      "white": "Magnus Carlsen",
+      "black": "Viswanathan Anand",
+      "year": 2013,
+      "opening": "Nimzo-Indian / Grünfeld Classical",
+      "moves": "1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6 9.Be3 O-O 10.O-O Bg4 11.f3 Na5 12.Bd3 cxd4 13.cxd4 Be6 14.d5 Bxa1 15.Qxa1 f6 16.Bh6 Re8 17.Kh1 Rc8 18.Nf4 Bf7 19.e5 Nc4 20.e6 Ne5 21.exf7+ Kxf7 22.Be4 Qa5 23.d6 e6 24.Bxb7 Rc2 25.d7 Rd8 26.Bc8 Qb6 27.Qd1 Rxa2 28.h4",
+      "annotation": "World Championship 2013, Game 9. Anand launches a desperate kingside counter-thrust, but Carlsen calculates all defensive resources with icy precision, pushing his passed pawns on e6 and d6 to seal his first World Championship title.",
+      "lessons": [
+        "Ice-cold Defense",
+        "Passed Pawn Blockade Breaking",
+        "Championship Mindset"
+      ]
+    }
+  }
+}

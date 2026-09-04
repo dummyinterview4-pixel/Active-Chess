@@ -1,0 +1,27 @@
+# Build stage
+FROM node:18-alpine as builder
+
+WORKDIR /app
+
+COPY package.json package-lock.json* ./
+RUN npm ci
+# chess.js 1.4.0 ships a stale sourceMappingURL pointing to a missing source file.
+RUN mkdir -p /app/node_modules/src \
+    && printf '%s\n' '// Placeholder source file for chess.js source-map resolution.' > /app/node_modules/src/chess.ts \
+    && find /app/node_modules/chess.js -type f -name '*.js' -exec sed -i '/sourceMappingURL.*chess\.ts/d' {} + || true
+
+COPY . .
+RUN npm run build
+
+# Production stage
+FROM node:18-alpine
+
+WORKDIR /app
+
+RUN npm install -g serve
+
+COPY --from=builder /app/build ./build
+
+EXPOSE 3000
+
+CMD ["serve", "-s", "build", "-l", "3000"]
